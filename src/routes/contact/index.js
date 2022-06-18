@@ -4,13 +4,23 @@ import style from './style';
 const photographs = (props) => {
 	return (
 		<div class={style.pageContact}>
-			<h1 class={style.pageTitle}>Contact me</h1>
+			<h1 class={style.pageTitle}>About me</h1>
 			<div class={style.formWrapper}>
 				<p class={style.pageBody}>
-					<div>Hi!</div>
-					<div>If you are interested in my work and are looking to contact me for a contract please use the following form to contact me.</div>
-					<div>&nbsp;</div>
-					<div>Cheers 🍻</div>
+					<div>
+						Mình là một frontend developer, có một thời gian làm việc ở FPT. Hiện mình đã
+						nghỉ và có mong muốn dành thời gian để hướng dẫn các bạn khiếm khuyết - khuyết 
+						tật có nguyện vọng trở thành lập trình viên. 
+					</div>
+					<div>
+						Nếu các bạn có băn khoăn về tài chính, thì đừng quá lo lắng. Tất cả những gì các 
+						bạn cần là một máy tính kết nối và một sự yêu thích với công nghệ. Mình hi vọng có 
+						thể giới thiệu với các bạn niềm vui của việc lập trình. Vì cá nhân mình tin kiến thức 
+						có thể mang lại niềm vui, và kỹ năng lập trình cũng hữu ích trong thời đại này.
+					</div>
+					<div>
+						Hẹn gặp các bạn :)
+					</div>
 				</p>
 				<form name="contact" method="POST" data-netlify="true" action="/contact/success" data-netlify-honeypot="bot-field">
 					<input type="hidden" name="form-name" value="contact" />

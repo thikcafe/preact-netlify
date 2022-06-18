@@ -38,9 +38,8 @@ const Home = () => {
 					có cùng quan tâm.
 				</p>
 				<p class={style.bioright}>
-					Bên cạnh là nguồn tham khảo, trang blog còn là cầu nối cho để mình đến được với
-					các bạn có mong muốn trở thành một lập trình viên. Hi vọng có thể chia sẻ kinh nghiệm,
-					hay đơn giản là đồng hành cùng các bạn.
+					Trang blog còn là cầu nối để mình đến được với các bạn có mong muốn trở thành một lập 
+					trình viên. Hi vọng có thể chia sẻ kinh nghiệm, hay đơn giản là đồng hành cùng các bạn.
 				</p>
 			</div>
 		</div>
