@@ -3,7 +3,7 @@ title: Learning how to learn
 date: 2022-06-18T09:07:51.788Z
 subtitle: ""
 cover: https://imgv2-2-f.scribdassets.com/img/document/251144197/original/ad6b80ef0a/1579388196?v=1
-tags: soft skills
+tags: "#soft skills"
 ---
 Đây là bài blog đầu tiên của mình, và mình chọn một chủ đề không liên quan đến công nghệ :)
 
