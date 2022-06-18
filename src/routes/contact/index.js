@@ -21,10 +21,14 @@ const photographs = (props) => {
 					</div>
 					<br />
 					<div>
+						Các bạn có thể kết bạn với mình qua Zalo: +0909090909 
+					</div>
+					<br />
+					<div>
 						Hẹn gặp các bạn :)
 					</div>
 				</p>
-				<form name="contact" method="POST" data-netlify="true" action="/contact/success" data-netlify-honeypot="bot-field">
+				{/* <form name="contact" method="POST" data-netlify="true" action="/contact/success" data-netlify-honeypot="bot-field">
 					<input type="hidden" name="form-name" value="contact" />
 					<p>
 						<input type="text" name="name" placeholder="Name" required />
@@ -38,7 +42,7 @@ const photographs = (props) => {
 					<p>
 						<button type="submit">Send</button>
 					</p>
-				</form>
+				</form> */}
 			</div>
 		</div>
 	);
