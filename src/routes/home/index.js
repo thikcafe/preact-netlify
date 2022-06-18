@@ -24,31 +24,23 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						Đối đãi một người qua hiện trạng của anh ta, anh ta sẽ mãi ở hiện trạng ấy.
+						Đối đãi một người qua tiềm năng của anh ta, anh ta sẽ trở thành người mà anh 
+						ta có thể trở thành và nên trở thành.
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
+					<div class={style.author}>-- Goethe</div>
 				</div>
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in
-					reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-					pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+					Trang blog là tập hợp những bài blog về các chủ đề công nghệ mà mình yêu thích, 
+					và dịch sang tiếng việt để làm nguồn tham khảo cũng như chia sẻ với những bạn 
+					có cùng quan tâm.
 				</p>
 				<p class={style.bioright}>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-					accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-					ab illo inventore veritatis et quasi architecto beatae vitae dicta
-					sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-					aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-					qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-					dolorem ipsum quia dolor sit amet, consectetur.
+					Bên cạnh là nguồn tham khảo, trang blog còn là cầu nối cho để mình đến được với
+					các bạn có mong muốn trở thành một lập trình viên. Hi vọng có thể chia sẻ kinh nghiệm,
+					hay đơn giản là đồng hành cùng các bạn.
 				</p>
 			</div>
 		</div>
