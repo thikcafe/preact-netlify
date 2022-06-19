@@ -1,44 +1,73 @@
 ---
 title: Các nguồn tài liệu tham khảo
 date: 2022-06-18T14:19:44.722Z
-tags: "#resource"
+tags: "# resources"
 ---
-Bài này chủ yếu để giới thiệu với bạn về những nguồn tài liệu mà mình thường tham khảo trong quá trình học và làm lập trình web. Vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
+Bài này chủ yếu để giới thiệu với bạn về những nguồn tài liệu mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học. Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
 
-1. Các công cụ:
+### 1. Các công cụ hỗ trợ:
 
-Editor (Visual Code): <https://frontendmasters.com/courses/customize-vs-code/>
+- Git (version control): 
 
-2. Lập trình web: 
+<https://www.udacity.com/course/version-control-with-git--ud123>
 
-HTML & CSS (Basic): <https://learn.shayhowe.com/html-css/>
+- Editor (Visual Code): 
 
-HTML & CSS (Advanced): <https://learn.shayhowe.com/advanced-html-css/>
+<https://frontendmasters.com/courses/customize-vs-code/>
 
-Flexbox: <https://flexbox.io/>
+### 2. Lập trình web: 
 
-CSSGrid: <https://cssgrid.io/>
+- Giới thiệu về HTML & CSS:
 
-CSS: <https://css-tricks.com/>
+<https://www.udacity.com/course/intro-to-html-and-css--ud001>
 
-Bootcamp: <https://frontendmasters.com/bootcamp/#joinBC>
+- HTML & CSS (Basic): 
 
-JS: <https://javascript30.com/>
+<https://learn.shayhowe.com/html-css/>
 
-3. Nền tảng học trực tuyến:
+- HTML & CSS (Advanced): 
 
-Coursera (cung cấp chứng chỉ): <https://www.coursera.org/>
+<https://learn.shayhowe.com/advanced-html-css/>
 
-4. Tiếng anh:
+- Flexbox: <https://flexbox.io/>
 
-Giao tiếp + ngữ pháp: <https://www.youtube.com/watch?v=Arol2AMKxu4&list=PLZeqxFXbHQTn2AkZ_TjFkFjLK71TIp4eo>
+- CSSGrid: <https://cssgrid.io/>
 
-Phát âm: <https://www.youtube.com/watch?v=Ew9N4rnfrBA&list=PLiog3evUozPmgbkAztdXQFhar5oWSmkPz> 
+- Giới thiệu Javascript:
 
-Ngoài ra nếu các bạn cần người chia sẻ những kinh nghiệm như liệu bạn có nên theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình?, thì anh [Phạm Huy Hoàng] (https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" :)
+<https://www.udacity.com/course/intro-to-javascript--ud803>
 
-Còn nhiều kênh và nguồn khác, nhưng những nguồn trên là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài google translate plugin để dịch nhé :). Và nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ để ủng hộ nhé!!
+- Thực hành Javascript: <https://javascript30.com/>
 
-p/s: Danh sách các nguồn tài liệu có thể sẽ được cập nhật, các bạn có thể thỉnh thoảng vào check lại nhé :)
+Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm. 
+
+Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn.
+
+### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
+
+- Coursera: <https://www.coursera.org/>
+- Udacity: <https://www.udacity.com/>
+
+### 4. Tiếng anh: (youtube)
+
+- Giao tiếp + ngữ pháp: 
+
+<https://www.youtube.com/watch?v=Arol2AMKxu4&list=PLZeqxFXbHQTn2AkZ_TjFkFjLK71TIp4eo>
+
+- Phát âm: 
+
+<https://www.youtube.com/watch?v=Ew9N4rnfrBA&list=PLiog3evUozPmgbkAztdXQFhar5oWSmkPz> 
+
+### 5. Dành cho các bạn mới bắt đầu:
+
+Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có nên theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng] (https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết :))
+
+** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài google translate plugin (hoặc đọc phụ đề tiếng anh) để dịch nhé :)
+
+Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * clean code *, * unit test *, hay như làm thế nào để * refactor code *... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
+
+Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React, Angular, Vue hay Svelte (framework yêu thích của mình :))
+
+P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ để ủng hộ nhé :)
 
 Thanks!!
