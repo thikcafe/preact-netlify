@@ -48,7 +48,7 @@ Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/
 - Coursera: <https://www.coursera.org/>
 - Udacity: <https://www.udacity.com/>
 
-### 4. Tiếng anh: (youtube)
+### 4. Tiếng Anh: (Youtube)
 
 - Giao tiếp + ngữ pháp: 
 
@@ -62,7 +62,9 @@ Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/
 
 Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có nên theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
 
-** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài google translate plugin (hoặc đọc phụ đề tiếng anh) để dịch nhé :)
+Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng. Nhưng các kênh Youtube cũng có ích khi các bạn cần tham khảo nhanh 1 khái niệm technical nào đó. Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), và còn nhiều kênh khác nữa.
+
+** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng anh) để dịch nhé :)
 
 Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * clean code *, * unit test *, hay như làm thế nào để * refactor code *... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
 
