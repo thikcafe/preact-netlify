@@ -60,13 +60,13 @@ Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/
 
 ### 5. Dành cho các bạn mới bắt đầu:
 
-Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có nên theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng] (https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết :))
+Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có nên theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
 
 ** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài google translate plugin (hoặc đọc phụ đề tiếng anh) để dịch nhé :)
 
 Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * clean code *, * unit test *, hay như làm thế nào để * refactor code *... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
 
-Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React, Angular, Vue hay Svelte (framework yêu thích của mình :))
+Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như [React](https://reactjs.org/), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
 
 P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ để ủng hộ nhé :)
 
