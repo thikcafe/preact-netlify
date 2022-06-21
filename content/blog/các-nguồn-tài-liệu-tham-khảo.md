@@ -51,7 +51,7 @@ Coursera có phần hỗ trợ tài chính, các bạn phải điền form và c
  
 - Udacity: <https://www.udacity.com/>
 
-Bản thân mình thường chỉ sử dụng những khoá free trên nền tảng này (mình keo kiệt mà ^_^). Vì những khoá có phí của Udacity thường khá (rất) đắt. 
+Bản thân mình thường chỉ sử dụng những khoá free trên nền tảng này (mình keo kiệt mà ^_^). Vì những khoá có phí của Udacity thường khá (rất) đắt, và công bằng mà nói thì bạn có thể tìm thấy những nội dung tương tự một cách miễn phí nếu bạn biết chỗ (miễn phí không phải lúc nào cũng kém chất lượng trong kiến thức :))
 
 ### 4. Tiếng Anh: (Youtube)
 
@@ -59,15 +59,21 @@ Bản thân mình thường chỉ sử dụng những khoá free trên nền t�
 
 <https://www.youtube.com/watch?v=Arol2AMKxu4&list=PLZeqxFXbHQTn2AkZ_TjFkFjLK71TIp4eo>
 
+Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh mình thích nhất, vì mọi bài học được sắp xếp như chúng ta đang xem phim. Và người dạy cũng rất hay.
+
 - Phát âm: 
 
 <https://www.youtube.com/watch?v=Ew9N4rnfrBA&list=PLiog3evUozPmgbkAztdXQFhar5oWSmkPz> 
+
+Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
 
 ### 5. Dành cho các bạn mới bắt đầu:
 
 Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
 
-Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng. Nhưng các kênh Youtube cũng có ích khi các bạn cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React) và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết :)
+Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng. Nhưng các kênh Youtube cũng có ích khi các bạn cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
+
+Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
 
 ** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
