@@ -67,13 +67,15 @@ Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh
 
 Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
 
-### 5. Dành cho các bạn mới bắt đầu:
-
-Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
+### 5. Youtube:
 
 Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng. Nhưng các kênh Youtube cũng có ích khi các bạn cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
 
 Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
+
+### 6. Dành cho các bạn mới bắt đầu:
+
+Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
 
 ** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
