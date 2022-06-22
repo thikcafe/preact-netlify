@@ -47,7 +47,11 @@ Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/
 
 - Coursera: <https://www.coursera.org/>
 
-Coursera có phần hỗ trợ tài chính, các bạn phải điền form và chờ khoảng 10 ngày để được duyệt.  Nếu được chấp thuận, các bạn có thể lấy chứng chỉ mà không mất phí. Mình cũng từng lấy 1-2 chứng chỉ của Coursera theo cách này, cũng không quá khó để được chấp nhận đâu :)
+Coursera có phần hỗ trợ tài chính (Financial aid), các bạn phải điền form và chờ khoảng 10 ngày để được duyệt.  Nếu được chấp thuận, các bạn có thể lấy chứng chỉ mà không mất phí. Mình cũng từng lấy 1-2 chứng chỉ của Coursera theo cách này, cũng không quá khó để được chấp nhận đâu :)
+
+Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn có thể tham khảo thử khoá "Web Design for Everybody (Specialization)" bên dưới:
+
+<https://www.coursera.org/specializations/web-design>
  
 - Udacity: <https://www.udacity.com/>
 
@@ -77,11 +81,23 @@ Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.yout
 
 Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
 
-** Note **: Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
+### 7. Toàn bộ lộ trình từ bắt đầu đến xin việc: (Scrimba)
+
+Đến giờ thì các nguồn mình đề cập đều free, nhưng cái gì cũng có ngoại lệ :). Scrimba là 1 nền tảng học online cung cấp hầu như **tất cả** những gì bạn cần để trở thành web (frontend) developer. Điểm khác biệt của Scrimba so với các nền tảng học online khác là Scrimba cho phép người học thực hành (coding) ngay trên nền tảng học online. Ngoài ra Scrimba có những phần mà các bạn ít thấy ở các khoá học lập trình web khác (bên cạnh tất cả những gì có trong lập trình web) như UX, code reviews hay cả 1 phần dành riêng cho job interview. 
+
+Đối với mình Scrimba có thể không phải là nền tảng học hay nhất. Nhưng nếu các bạn có tài chính và đặc biệt là **thời gian**. Các bạn mong muốn 1 khoá học đầy đủ bao gồm cả những kỹ năng mềm thì Scrimba là 1 lựa chọn khá tốt. Scrimba cung cấp cả chứng chỉ (nếu bạn hoàn thành toàn bộ khoá học) với mức phí không quá cao là 410K/tháng.
+
+Các bạn có thể tham khảo lộ trình học của khoá [Frontend Developer](https://scrimba.com/learn/frontend) (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free) mà nó cung cấp.
+
+Tip: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
+
+** Ghi chú: ** Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
 Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * clean code *, * unit test *, hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
 
 Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như [React](https://reactjs.org/), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
+
+**Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
 P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ để ủng hộ nhé :)
 
