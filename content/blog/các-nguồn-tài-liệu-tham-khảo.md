@@ -3,7 +3,7 @@ title: Các nguồn tài liệu tham khảo
 date: 2022-06-18T14:19:44.722Z
 tags: "# resources"
 ---
-Bài viết này chủ yếu để giới thiệu với bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các ). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
+Bài viết này chủ yếu để giới thiệu với bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
 
 ### 1. Các công cụ hỗ trợ:
 
@@ -63,7 +63,9 @@ Bản thân mình thường chỉ sử dụng những khoá free trên nền t�
 
 <https://www.youtube.com/watch?v=Arol2AMKxu4&list=PLZeqxFXbHQTn2AkZ_TjFkFjLK71TIp4eo>
 
-Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh mình thích nhất, vì mọi bài học được sắp xếp như chúng ta đang xem phim. Và người dạy cũng rất hay.
+Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh mình thích nhất, vì mọi bài học được sắp xếp như chúng ta đang xem phim. Phần phát âm trong bài học rất rõ, có cả phụ đề và người dạy cũng rất nhiệt tình sinh động.
+
+Đặc biệt phần cuối của series còn có cả phần tiếng Anh trong công việc, thích hợp với những bạn cần giao tiếp trong môi trường văn phòng. 
 
 - Phát âm: 
 
@@ -85,13 +87,13 @@ Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mì
 
 Đến giờ thì các nguồn mình đề cập đều free, nhưng cái gì cũng có ngoại lệ :). Scrimba là 1 nền tảng học online cung cấp hầu như **tất cả** những gì bạn cần để trở thành web (frontend) developer. Điểm khác biệt của Scrimba so với các nền tảng học online khác là Scrimba cho phép người học thực hành (coding) ngay trên nền tảng học online. Ngoài ra Scrimba có những phần mà các bạn ít thấy ở các khoá học lập trình web khác (bên cạnh tất cả những gì có trong lập trình web) như UX, code reviews hay cả 1 phần dành riêng cho job interview. 
 
-Đối với mình Scrimba có thể không phải là nền tảng học hay nhất. Nhưng nếu các bạn có tài chính và đặc biệt là **thời gian**. Các bạn mong muốn 1 khoá học đầy đủ bao gồm cả những kỹ năng mềm thì Scrimba là 1 lựa chọn khá tốt. Scrimba cung cấp cả chứng chỉ (nếu bạn hoàn thành toàn bộ khoá học) với mức phí không quá cao là 410K/tháng.
+Đối với mình Scrimba có thể không phải là nền tảng học yêu thích nhất (mình vẫn giữ vững "quan điểm", free luôn là lựa chọn đầu tiên ^_^). Nhưng nếu các bạn có tài chính và đặc biệt là **thời gian**. Các bạn mong muốn 1 khoá học đầy đủ bao gồm cả những kỹ năng mềm thì Scrimba là 1 lựa chọn tốt và hợp lý. Scrimba cung cấp cả chứng chỉ (nếu bạn hoàn thành toàn bộ khoá học) với mức phí không quá cao là 410K/tháng.
 
-Các bạn có thể tham khảo lộ trình học của khoá [Frontend Developer](https://scrimba.com/learn/frontend) (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free) mà nó cung cấp.
+Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Developer](https://scrimba.com/learn/frontend "The Frontend Developer Career Path")" (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free) mà nó cung cấp.
 
 Tip: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
 
-** Ghi chú: ** Còn nhiều kênh và nguồn khác, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
+** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight, Udemy, Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
 Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * clean code *, * unit test *, hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
 
