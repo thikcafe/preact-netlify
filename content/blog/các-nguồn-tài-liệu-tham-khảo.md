@@ -29,15 +29,17 @@ Bài viết này chủ yếu để giới thiệu với bạn về những ngu�
 
 <https://learn.shayhowe.com/advanced-html-css/>
 
-- Flexbox: <https://flexbox.io/>
+- Flexbox (Wes Bos): <https://flexbox.io/>
 
-- CSSGrid: <https://cssgrid.io/>
+- CSSGrid (Wes Bos): <https://cssgrid.io/>
 
 - Giới thiệu Javascript:
 
 <https://www.udacity.com/course/intro-to-javascript--ud803>
 
-- Thực hành Javascript: <https://javascript30.com/>
+- Thực hành Javascript (Wes Bos):
+
+<https://javascript30.com/>
 
 Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm. 
 
@@ -59,6 +61,8 @@ Bản thân mình thường chỉ sử dụng những khoá free trên nền t�
 
 ### 4. Tiếng Anh: (Youtube)
 
+Vì tiếng Anh là phần không thể thiếu với lập trình viên, nên các bạn có thể tham khảo 2 kênh bên duới:
+
 - Giao tiếp + ngữ pháp: 
 
 <https://www.youtube.com/watch?v=Arol2AMKxu4&list=PLZeqxFXbHQTn2AkZ_TjFkFjLK71TIp4eo>
@@ -71,7 +75,7 @@ Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh
 
 <https://www.youtube.com/watch?v=Ew9N4rnfrBA&list=PLiog3evUozPmgbkAztdXQFhar5oWSmkPz> 
 
-Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
+Thầy Kenny Ng (chắc là Nguyễn, hi) khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
 
 ### 5. Youtube:
 
@@ -101,6 +105,6 @@ Bên cạnh đó nếu các bạn chọn để trở thành một * frontend dev
 
 **Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
-P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ để ủng hộ nhé :)
+P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ (phần lớn đều có kênh Youtube bao gồm [Scrimba](https://www.youtube.com/c/Scrimba), [Wes Bos](https://www.youtube.com/c/WesBos)) để ủng hộ nhé :)
 
 Thanks!!
