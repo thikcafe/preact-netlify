@@ -29,21 +29,25 @@ Bài viết này chủ yếu để giới thiệu với bạn về những ngu�
 
 <https://learn.shayhowe.com/advanced-html-css/>
 
-- Flexbox (Wes Bos): <https://flexbox.io/>
+- Flexbox ([Wes Bos](https://wesbos.com/courses)) <https://flexbox.io/>
 
-- CSSGrid (Wes Bos): <https://cssgrid.io/>
+- CSSGrid ([Wes Bos](https://wesbos.com/)): <https://cssgrid.io/>
+
+Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm. 
 
 - Giới thiệu Javascript:
 
 <https://www.udacity.com/course/intro-to-javascript--ud803>
 
-- Thực hành Javascript (Wes Bos):
+- Khoá học Javascript (Wes Bos):
 
-<https://javascript30.com/>
+Miễn phí: <https://javascript30.com/>
 
-Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm. 
+Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn.
+Ngoài ra còn có khoá [ES6](https://beginnerjavascript.com/) nếu các bạn quan tâm (52% off)
+
+**Tips**: Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn.
 
 ### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
 
@@ -95,16 +99,16 @@ Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mì
 
 Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Developer](https://scrimba.com/learn/frontend "The Frontend Developer Career Path")" (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free) mà nó cung cấp.
 
-Tip: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
+**Tips**: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
 
 ** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight, Udemy, Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * clean code *, * unit test *, hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
+Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
 
-Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như [React](https://reactjs.org/), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
+Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/) có phí), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
 
 **Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
-P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh của họ (phần lớn đều có kênh Youtube bao gồm [Scrimba](https://www.youtube.com/c/Scrimba), [Wes Bos](https://www.youtube.com/c/WesBos)) để ủng hộ nhé :)
+P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists), [Wes Bos](https://www.youtube.com/c/WesBos/playlists),...) để ủng hộ nhé :)
 
 Thanks!!
