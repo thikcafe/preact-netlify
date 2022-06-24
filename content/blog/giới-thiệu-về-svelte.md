@@ -3,7 +3,7 @@ title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
 cover: https://joshcollinsworth.com/images/post_images/introducing_svelte.png
-tags: Svelte
+tags: "\x1fsvelte"
 ---
 *Bài viết tham khảo phần chương 1 của quyển "Svelte in action and Sapper" của Mark Volkmann (phần số liệu) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" của [Josh Collinsworth](https://joshcollinsworth.com/).*
 
@@ -43,7 +43,9 @@ Những ưu điểm của Svelte bao gồm:
 
 > **Note:** phần số liệu chưa cập nhật mới, nhưng chủ yếu là để minh hoạ tính hiệu quả của Svelte.
 
-- New York Times là một tờ báo toàn cầu, vì thế nó yêu cầu việc mở rộng đến lượng người sử dụng lớn nhất có thể. Điều này có nghĩa là bao gồm cả những đối tượng ở những nơi có truy cập Internet chậm, hay sử dụng những thiết bị hạn chế về mặt phần cứng như mobile, smart TV... Svelte tạo ra kích thước gói code bundle nhỏ hơn, dẫn đến giảm thời gian tải của trình duyệt. Điều này giúp Svelte có ưu thế khi làm việc với những môi trường hạn chế trên hơn so với các framework khác.
+- New York Times là một tờ báo toàn cầu, vì thế nó yêu cầu việc mở rộng đến lượng người sử dụng lớn nhất có thể. Điều này có nghĩa là bao gồm cả những đối tượng ở những nơi có truy cập Internet chậm, hay sử dụng những thiết bị hạn chế về mặt phần cứng như mobile, smart TV... 
+
+> Svelte tạo ra kích thước gói code bundle nhỏ hơn, dẫn đến giảm thời gian tải của trình duyệt. Điều này giúp Svelte có ưu thế khi làm việc với những môi trường hạn chế trên hơn so với các framework khác.
 
 > So sánh: (số liệu 2019)
 
@@ -59,9 +61,13 @@ Những ưu điểm của Svelte bao gồm:
 
 - Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, giúp tăng trải nghiệm người dùng). Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn), hay scoped CSS... 
 
-- Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm 1 thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Và để sử dụng các thư viện này thường đòi hỏi phải setup một lượng code tương đối. Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state theo mình là một ưu điểm rất lớn. 
+- Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm 1 thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
-- Ngoài những ưu điểm kể trên, đối với lập trình viên như chúng ta Svelte mang đến trải nghiệm rất tốt khi sử dụng (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là một "framework của dev và dành cho dev". Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev sau nhiều năng kinh nghiệm làm việc (cũng như học hỏi từ các framework khác) thêm vào. 
+> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Và để sử dụng các thư viện này thường đòi hỏi phải setup một lượng code tương đối. Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state theo mình là một ưu điểm rất lớn. 
+
+- Ngoài những ưu điểm kể trên, đối với lập trình viên như chúng ta Svelte mang đến trải nghiệm rất tốt khi sử dụng (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là "A framework for developers". 
+
+> Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev sau nhiều năng kinh nghiệm làm việc (cũng như học hỏi từ các framework khác) thêm vào. 
 
 Đến thời điểm này mình hi vọng đã thuyết phục được các bạn là Svelte đáng học (hoặc không ^_^). Nhưng không phải là Svelte không có nhược điểm, vì thế hãy đọc luôn phần sau để quyết định nhé!!
 
@@ -74,13 +80,19 @@ Những ưu điểm của Svelte bao gồm:
 Svelte yêu cầu polyfills chạy đúng cách trong Internet Explorer (và thậm chí như vậy, việc hỗ trợ cho bất kỳ phiên bản IE nào dưới 11 vẫn không được đảm bảo).
 Nếu bạn cần hỗ trợ IE-11, bạn có thể đọc vấn đề GitHub của Svelte/IE11, liệt kê một số cách giải quyết và polyfills có thể có. Hoặc đây có thể là một trường hợp cần phải lựa chọn một framework khác.
 
-Tuy nhiên, nếu bạn đang bắt đầu một dự án mới hôm nay, hãy lưu ý rằng Internet Explorer không còn lâu nữa đối với thế giới này. Google tìm kiếm gần đây đã bỏ hỗ trợ cho IE-11 , với lý do thị phần rất nhỏ và đang bị thu hẹp (chỉ khoảng 1% trên tất cả các trình duyệt). WordPress, cung cấp khoảng 40% web vào thời điểm này, đã bỏ hỗ trợ cho IE-11 trong phiên bản WordPress 5.8 vào đầu năm nay. Và ngay cả chính Microsoft cũng sẽ đóng chiếc đinh cuối cùng vào cỗ quan tài của IE-11 vào tháng 7 năm 2022.
+Tuy nhiên, nếu bạn đang bắt đầu một dự án mới hôm nay, hãy lưu ý rằng Internet Explorer không còn lâu nữa đối với thế giới này. Google tìm kiếm gần đây đã bỏ hỗ trợ cho IE-11 , với lý do thị phần rất nhỏ và đang bị thu hẹp (chỉ khoảng 1% trên tất cả các trình duyệt). 
+
+WordPress, cung cấp khoảng 40% web vào thời điểm này, đã bỏ hỗ trợ cho IE-11 trong phiên bản WordPress 5.8 vào đầu năm nay. Và ngay cả chính Microsoft cũng sẽ đóng chiếc đinh cuối cùng vào cỗ quan tài của IE-11 vào tháng 7 năm 2022.
 
 #### Svelte khó trong việc tìm kiếm công việc, vì là một framework còn non trẻ (so với các framework lâu đời khác):
 
-Nếu bạn đang học với hy vọng kiếm được một công việc với các kỹ năng mới tìm thấy của mình, sẽ rất khó để đề xuất bất kỳ điều gì khác ngoài React cho mục tiêu theo đuổi đó — đơn giản vì đây là framework lớn nhất cho đến nay về thị phần và công việc có sẵn. Tôi ước điều đó không phải như vậy, nhưng công nghệ nói chung (ít nhất là ở Mỹ), đã tham gia rất nhiều vào React và tôi sẽ không thấy điều đó sớm thay đổi. Tuy nhiên, mặc dù vậy: nếu bạn đã biết React, tôi nghĩ bạn vẫn nên học Svelte chỉ vì góc nhìn, nếu không có gì khác.
+Nếu bạn đang học với hy vọng kiếm được một công việc với các kỹ năng mới tìm thấy của mình, sẽ rất khó để đề xuất bất kỳ điều gì khác ngoài React cho mục tiêu theo đuổi đó — đơn giản vì đây là framework lớn nhất cho đến nay về thị phần và công việc có sẵn. 
 
-Bên cạnh đó nếu bạn đang chọn một công nghệ cho một dự án hoặc công ty mới khởi nghiệp? Svelte có thể sẽ cho phép bạn di chuyển nhanh hơn và xây dựng thứ gì đó hiệu quả hơn, nhưng tuyển dụng hoặc cộng tác có thể là một thách thức, do số lượng lập trình viên Svelte tương đối nhỏ. Tuy nhiên, điều đó nói lên rằng: việc biết một framework JS có xu hướng làm cho việc học một framework mới dễ dàng hơn và Svelte theo ý kiến của tôi là dễ dàng nhất để bắt đầu. Tôi nghĩ rằng bất kỳ lập trình viên nào đã quen thuộc với một framework frontend khác có thể chọn Svelte khá nhanh (và ngược lại).
+Tôi ước điều đó không phải như vậy, nhưng công nghệ nói chung (ít nhất là ở Mỹ), đã tham gia rất nhiều vào React và tôi sẽ không thấy điều đó sớm thay đổi. Tuy nhiên, mặc dù vậy: nếu bạn đã biết React, tôi nghĩ bạn vẫn nên học Svelte chỉ vì góc nhìn, nếu không có gì khác.
+
+Bên cạnh đó nếu bạn đang chọn một công nghệ cho một dự án hoặc công ty mới khởi nghiệp? Svelte có thể sẽ cho phép bạn di chuyển nhanh hơn và xây dựng thứ gì đó hiệu quả hơn, nhưng tuyển dụng hoặc cộng tác có thể là một thách thức, do số lượng lập trình viên Svelte tương đối nhỏ. 
+
+Tuy nhiên, điều đó nói lên rằng: việc biết một framework JS có xu hướng làm cho việc học một framework mới dễ dàng hơn và Svelte theo ý kiến của tôi là dễ dàng nhất để bắt đầu. Tôi nghĩ rằng bất kỳ lập trình viên nào đã quen thuộc với một framework frontend khác có thể chọn Svelte khá nhanh (và ngược lại).
 
 ### 3. Kết luận:
 
