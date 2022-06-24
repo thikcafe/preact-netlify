@@ -80,3 +80,7 @@ Tuy nhiên, nếu bạn đang bắt đầu một dự án mới hôm nay: hãy l
 Nếu bạn đang học với hy vọng kiếm được một công việc với các kỹ năng mới tìm thấy của mình, sẽ rất khó để đề xuất bất kỳ điều gì khác ngoài React cho mục tiêu theo đuổi đó — đơn giản vì đây là framework lớn nhất cho đến nay về thị phần và công việc có sẵn. Tôi ước điều đó không phải như vậy, nhưng công nghệ nói chung (ít nhất là ở Mỹ), đã tham gia rất nhiều vào React và tôi sẽ không thấy điều đó sớm thay đổi. Tuy nhiên, mặc dù vậy: nếu bạn đã biết React, tôi nghĩ bạn vẫn nên học Svelte chỉ vì góc nhìn, nếu không có gì khác.
 
 Thay vào đó: bạn đang chọn một công nghệ cho một dự án hoặc công ty mới khởi nghiệp? Svelte có thể sẽ cho phép bạn di chuyển nhanh hơn và xây dựng thứ gì đó hiệu quả hơn, nhưng tuyển dụng hoặc cộng tác có thể là một thách thức, do số lượng lập trình viên Svelte tương đối nhỏ. Tuy nhiên, điều đó nói lên rằng: việc biết một framework JS có xu hướng làm cho việc học một framework mới dễ dàng hơn và Svelte theo ý kiến ​​của tôi là dễ dàng nhất để bắt đầu. Tôi nghĩ rằng bất kỳ lập trình viên nào đã quen thuộc với một framework frontend khác có thể chọn Svelte khá nhanh (và ngược lại).
+
+## 3. Kết luận:
+
+Mặc dù có những khuyết điểm (ở thời điểm hiện tại)
