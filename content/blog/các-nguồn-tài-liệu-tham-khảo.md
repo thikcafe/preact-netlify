@@ -17,7 +17,7 @@ Visual Code ngày càng phổ biến với vai trò là một IDE cho cả front
 
 ### 2. Lập trình web: 
 
-- Giới thiệu về HTML & CSS: <https://www.udacity.com/course/intro-to-html-and-css--ud001>
+- HTML & CSS (Intro): <https://www.udacity.com/course/intro-to-html-and-css--ud001>
 
 - HTML & CSS (Basic): <https://learn.shayhowe.com/html-css/>
 
@@ -49,7 +49,7 @@ Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.
 
 Coursera có phần hỗ trợ tài chính (Financial aid), các bạn phải điền form và chờ khoảng 10 ngày để được duyệt.  Nếu được chấp thuận, các bạn có thể lấy chứng chỉ mà không mất phí. Mình cũng từng lấy 1-2 chứng chỉ của Coursera theo cách này, cũng không quá khó để được chấp nhận đâu :)
 
-Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn có thể tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design)".
+Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design)".
  
 - Udacity: <https://www.udacity.com/>
 
@@ -77,7 +77,7 @@ Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn c�
 
 ### 5. Youtube:
 
-Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng (có thể ít phù hợp với các bạn mới bắt đầu). Nhưng các kênh Youtube cũng có ích khi các bạn đã có kiến thức (kinh nghiệm) cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
+Mình ít đề cập đến các kênh Youtube (ngoại trừ tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng (có thể ít phù hợp với các bạn mới bắt đầu). Nhưng các kênh Youtube cũng có ích khi các bạn đã có kiến thức (kinh nghiệm) cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
 
 Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
 
