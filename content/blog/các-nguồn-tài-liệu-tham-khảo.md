@@ -33,7 +33,7 @@ Bài viết này chủ yếu để giới thiệu với bạn về những ngu�
 
 - CSSGrid ([Wes Bos](https://wesbos.com/)): <https://cssgrid.io/>
 
-Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm. 
+Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm nhất định. 
 
 - Giới thiệu Javascript:
 
@@ -47,7 +47,7 @@ Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
 Ngoài ra còn có khoá [ES6](https://beginnerjavascript.com/) nếu các bạn quan tâm (52% off)
 
-**Tips**: Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn.
+**Tip**: Trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn.
 
 ### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
 
@@ -65,7 +65,7 @@ Bản thân mình thường chỉ sử dụng những khoá free trên nền t�
 
 ### 4. Tiếng Anh: (Youtube)
 
-Vì tiếng Anh là phần không thể thiếu với lập trình viên, nên các bạn có thể tham khảo 2 kênh bên duới:
+Vì tiếng Anh là phần không thể thiếu với lập trình viên, nên các bạn có thể tham khảo 2 kênh bên dưới:
 
 - Giao tiếp + ngữ pháp: 
 
@@ -79,11 +79,13 @@ Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh
 
 <https://www.youtube.com/watch?v=Ew9N4rnfrBA&list=PLiog3evUozPmgbkAztdXQFhar5oWSmkPz> 
 
-Thầy Kenny Ng (chắc là Nguyễn, hi) khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
+Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
+
+Điểm hay trong cách dạy của Thầy là vì Thầy biết tiếng Việt nên Thầy biết được những lỗi mà người Việt hay mắc phải khi nói tiếng Anh, và gợi ý rất nhiều mẹo hay cho phần phát âm. Bên cạnh đó chắc chắn khi xem video của Thầy, các bạn cũng sẽ thấy rất có tính... giải trí (nhiều khi mình xem lại clip chỉ vì nó... "sáng tạo" quá ^_^) 
 
 ### 5. Youtube:
 
-Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng. Nhưng các kênh Youtube cũng có ích khi các bạn cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
+Mình ít đề cập đến các kênh Youtube (ngoại trừ Tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng (có thể ít phù hợp với các bạn mới bắt đầu). Nhưng các kênh Youtube cũng có ích khi các bạn đã có kiến thức (kinh nghiệm) cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
 
 Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
 
@@ -99,16 +101,16 @@ Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mì
 
 Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Developer](https://scrimba.com/learn/frontend "The Frontend Developer Career Path")" (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free) mà nó cung cấp.
 
-**Tips**: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
+**Tip**: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
 
-** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight, Udemy, Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, những nguồn trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
+** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight (search google các bạn có thể tìm được cách để có tài khoản học miễn phí 1 tháng), Udemy (mình không thật sự là fan của nền tảng này), Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, những nguồn mình liệt kê phía trên chỉ là bản thân mình thường sử dụng. Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần biết thêm kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :)
+Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
 
 Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/) có phí), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
 
 **Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
-P/S: Nếu các nguồn mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists), [Wes Bos](https://www.youtube.com/c/WesBos/playlists),...) để ủng hộ nhé :)
+P/S: Nếu các nguồn miễn phí mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists), [Wes Bos](https://www.youtube.com/c/WesBos/playlists),...) để ủng hộ nhé :)
 
 Thanks!!
