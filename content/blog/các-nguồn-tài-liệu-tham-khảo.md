@@ -55,9 +55,9 @@ Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
 ES6 (52% off): <https://beginnerjavascript.com/>
 
-Ngoài ra trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn. 
+Ngoài ra trang Frontend Masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
 
-**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/), hay [MDN](https://developer.mozilla.org/en-US/). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
+**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/), hay [MDN](https://developer.mozilla.org/en-US/) (được sử dụng rất nhiều). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
 
 ### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
 
@@ -65,9 +65,7 @@ Ngoài ra trang frontend masters cũng có 1 khoá [bootcamp](https://frontendma
 
 Coursera có phần hỗ trợ tài chính (Financial aid), các bạn phải điền form và chờ khoảng 10 ngày để được duyệt.  Nếu được chấp thuận, các bạn có thể lấy chứng chỉ mà không mất phí. Mình cũng từng lấy 1-2 chứng chỉ của Coursera theo cách này, cũng không quá khó để được chấp nhận đâu :)
 
-Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn có thể tham khảo thử khoá "Web Design for Everybody (Specialization)" bên dưới:
-
-<https://www.coursera.org/specializations/web-design>
+Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn có thể tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design)".
  
 - Udacity: <https://www.udacity.com/>
 
