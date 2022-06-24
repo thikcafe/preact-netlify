@@ -97,7 +97,7 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 ** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight (search google các bạn có thể tìm được cách để có tài khoản học miễn phí 1 tháng), Udemy (mình không thật sự là fan của nền tảng này), Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, **những nguồn mình liệt kê phía trên chỉ là bản thân mình thường sử dụng.** 
 
-Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
+Nếu có khó khăn về phần tiếng Anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
 Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, *thuật toán* (có ích khi phỏng vấn), hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
 
