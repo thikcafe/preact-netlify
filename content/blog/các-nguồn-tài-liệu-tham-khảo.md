@@ -3,7 +3,7 @@ title: Các nguồn tài liệu tham khảo
 date: 2022-06-18T14:19:44.722Z
 tags: "# resources"
 ---
-Bài viết này chủ yếu để giới thiệu với bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
+Bài viết này chủ yếu để giới thiệu với các bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
 
 ### 1. Các công cụ hỗ trợ:
 
@@ -11,9 +11,13 @@ Bài viết này chủ yếu để giới thiệu với bạn về những ngu�
 
 <https://www.udacity.com/course/version-control-with-git--ud123>
 
-- Editor (Visual Code): 
+Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
+
+-  (Visual Code): 
 
 <https://frontendmasters.com/courses/customize-vs-code/>
+
+Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web)
 
 ### 2. Lập trình web: 
 
@@ -61,7 +65,7 @@ Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" t
  
 - Udacity: <https://www.udacity.com/>
 
-Bản thân mình thường chỉ sử dụng những khoá free trên nền tảng này (mình keo kiệt mà ^_^). Vì những khoá có phí của Udacity thường khá (rất) đắt, và công bằng mà nói thì bạn có thể tìm thấy những nội dung tương tự một cách miễn phí nếu bạn biết chỗ (miễn phí không phải lúc nào cũng kém chất lượng trong kiến thức :))
+Bản thân mình thường chỉ sử dụng những khoá free trên nền tảng này (mình keo kiệt mà ^_^). Vì những khoá có phí của Udacity thường khá (rất) đắt, và công bằng mà nói thì bạn có thể tìm thấy những nội dung tương tự một cách miễn phí nếu bạn bỏ chút thời gian để tìm (miễn phí không phải lúc nào cũng kém chất lượng trong kiến thức :))
 
 ### 4. Tiếng Anh: (Youtube)
 
@@ -71,7 +75,7 @@ Vì tiếng Anh là phần không thể thiếu với lập trình viên, nên c
 
 <https://www.youtube.com/watch?v=Arol2AMKxu4&list=PLZeqxFXbHQTn2AkZ_TjFkFjLK71TIp4eo>
 
-Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh mình thích nhất, vì mọi bài học được sắp xếp như chúng ta đang xem phim. Phần phát âm trong bài học rất rõ, có cả phụ đề và người dạy cũng rất nhiệt tình sinh động.
+Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh mình thích nhất, vì mọi bài học được sắp xếp như chúng ta đang xem phim. Phần phát âm trong bài học rất rõ, có cả phụ đề và người dạy cũng rất nhiệt tình, sinh động.
 
 Đặc biệt phần cuối của series còn có cả phần tiếng Anh trong công việc, thích hợp với những bạn cần giao tiếp trong môi trường văn phòng. 
 
@@ -79,7 +83,7 @@ Có rất nhiều bài dạy hay về tiếng Anh trên Youtube. Đây là kênh
 
 <https://www.youtube.com/watch?v=Ew9N4rnfrBA&list=PLiog3evUozPmgbkAztdXQFhar5oWSmkPz> 
 
-Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên tv Tiếng Việt của mình, kênh nào thì mình quên rồi :)
+Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn cũng đã biết) với phong cách trẻ trung, hài hước. Thầy cũng từng được phỏng vấn trên TV tiếng Việt của mình, kênh nào thì mình quên rồi :)
 
 Điểm hay trong cách dạy của Thầy là vì Thầy biết tiếng Việt nên Thầy biết được những lỗi mà người Việt hay mắc phải khi nói tiếng Anh, và gợi ý rất nhiều mẹo hay cho phần phát âm. Bên cạnh đó chắc chắn khi xem video của Thầy, các bạn cũng sẽ thấy rất có tính... giải trí (nhiều khi mình xem lại clip chỉ vì nó... "sáng tạo" quá ^_^) 
 
