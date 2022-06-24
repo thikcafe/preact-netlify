@@ -49,7 +49,7 @@ Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.
 
 Coursera có phần hỗ trợ tài chính (Financial aid), các bạn phải điền form và chờ khoảng 10 ngày để được duyệt.  Nếu được chấp thuận, các bạn có thể lấy chứng chỉ mà không mất phí. Mình cũng từng lấy 1-2 chứng chỉ của Coursera theo cách này, cũng không quá khó để được chấp nhận đâu :)
 
-Ngoài ra Coursera còn có phần Specialization, kiểu như "Learning Path" thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design)".
+Ngoài ra Coursera còn có phần Specialization, thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design)".
  
 - Udacity: <https://www.udacity.com/>
 
