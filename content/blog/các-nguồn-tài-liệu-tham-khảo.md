@@ -7,45 +7,29 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 ### 1. Các công cụ hỗ trợ:
 
-- Git (version control): 
-
-<https://www.udacity.com/course/version-control-with-git--ud123>
+- Git (version control): <https://www.udacity.com/course/version-control-with-git--ud123>
 
 Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
 
-- IDE (Visual Code): 
-
-<https://frontendmasters.com/courses/customize-vs-code/>
+- IDE (Visual Code): <https://frontendmasters.com/courses/customize-vs-code/>
 
 Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web)
 
 ### 2. Lập trình web: 
 
-- Giới thiệu về HTML & CSS:
+- Giới thiệu về HTML & CSS: <https://www.udacity.com/course/intro-to-html-and-css--ud001>
 
-<https://www.udacity.com/course/intro-to-html-and-css--ud001>
+- HTML & CSS (Basic): <https://learn.shayhowe.com/html-css/>
 
-- HTML & CSS (Basic): 
+- HTML & CSS (Advanced): <https://learn.shayhowe.com/advanced-html-css/>
 
-<https://learn.shayhowe.com/html-css/>
+- Flexbox ([Wes Bos](https://wesbos.com/courses)): <https://flexbox.io/>
 
-- HTML & CSS (Advanced): 
-
-<https://learn.shayhowe.com/advanced-html-css/>
-
-- Flexbox ([Wes Bos](https://wesbos.com/courses)):
-
-<https://flexbox.io/>
-
-- CSSGrid ([Wes Bos](https://wesbos.com/)):
-
-<https://cssgrid.io/>
+- CSSGrid ([Wes Bos](https://wesbos.com/)): <https://cssgrid.io/>
 
 Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
-- Giới thiệu Javascript:
-
-<https://www.udacity.com/course/intro-to-javascript--ud803>
+- Giới thiệu Javascript: <https://www.udacity.com/course/intro-to-javascript--ud803>
 
 - Khoá học Javascript (Wes Bos):
 
@@ -111,7 +95,7 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 **Tip**: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
 
-** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight (search google các bạn có thể tìm được cách để có tài khoản học miễn phí 1 tháng), Udemy (mình không thật sự là fan của nền tảng này), Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, những nguồn mình liệt kê phía trên chỉ là bản thân mình thường sử dụng. 
+** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight (search google các bạn có thể tìm được cách để có tài khoản học miễn phí 1 tháng), Udemy (mình không thật sự là fan của nền tảng này), Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, **những nguồn mình liệt kê phía trên chỉ là bản thân mình thường sử dụng.** 
 
 Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
