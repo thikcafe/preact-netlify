@@ -1,9 +1,7 @@
 ---
 title: Giới thiệu về Svelte
 date: 2022-06-24T16:37:24.287Z
-subtitle: Bài viết tham khảo phần chương 1 của quyển "Svelte in action and
-  Sapper" (phần số liệu) và bài viết "Introducing Svelte, and Comparing Svelte
-  with React and Vue" của tác giả Josh Collinsworth (phần nhược điểm của Svelte)
+subtitle: ""
 tags: "# Svelte"
 ---
 Mình luôn muốn viết một bài giới thiệu framework Svelte (nếu các bạn đọc bài trước, chắc các bạn cũng biết đây là framework yêu thích của mình :)). Nhân dịp tác giả của Svelte (Rich Harris) có bài phỏng vấn gần đây (2 ngày khi mình viết bài này) khi Svelte được chọn là "Framework được yêu thích nhất", mình nghĩ đây là lúc.
