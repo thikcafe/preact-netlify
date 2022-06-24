@@ -13,7 +13,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
 
--  (Visual Code): 
+- IDE (Visual Code): 
 
 <https://frontendmasters.com/courses/customize-vs-code/>
 
@@ -33,11 +33,15 @@ Visual Code ngày càng phổ biến với vai trò là một IDE cho cả front
 
 <https://learn.shayhowe.com/advanced-html-css/>
 
-- Flexbox ([Wes Bos](https://wesbos.com/courses)) <https://flexbox.io/>
+- Flexbox ([Wes Bos](https://wesbos.com/courses)):
 
-- CSSGrid ([Wes Bos](https://wesbos.com/)): <https://cssgrid.io/>
+<https://flexbox.io/>
 
-Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm nhất định. 
+- CSSGrid ([Wes Bos](https://wesbos.com/)):
+
+<https://cssgrid.io/>
+
+Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
 - Giới thiệu Javascript:
 
@@ -49,7 +53,7 @@ Miễn phí: <https://javascript30.com/>
 
 Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-ES6: <https://beginnerjavascript.com/> (52% off)
+ES6 (52% off): <https://beginnerjavascript.com/>
 
 Ngoài ra trang frontend masters cũng có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở phía trên sẽ tốt hơn. 
 
