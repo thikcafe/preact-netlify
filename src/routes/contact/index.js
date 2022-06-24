@@ -10,7 +10,7 @@ const photographs = (props) => {
 					<div>
 						Mình là một frontend developer, có một thời gian làm việc ở FPT. Hiện mình đã
 						nghỉ và có nguyện vọng dành thời gian để hướng dẫn các bạn khiếm khuyết - khuyết 
-						tật có mong muốn trở thành lập trình viên. 
+						tật có mong muốn tìm hiểu về lập trình (web). 
 					</div>
 					<br />
 					<div>
