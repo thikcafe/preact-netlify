@@ -3,13 +3,13 @@ title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
 cover: /assets/introducing_svelte.png
-tags: "# framework, # Svelte"
+tags: "# framework, svelte"
 ---
 *Bài viết tham khảo chương 1 của quyển "Svelte and Sapper in Action" (Mark Volkmann) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" ([Josh Collinsworth](https://joshcollinsworth.com/)).*
 
 Mình luôn muốn viết một bài giới thiệu framework Svelte, nhưng "bị cái" làm biếng :). Nhân dịp tác giả của Svelte (Rich Harris) có [bài phỏng vấn](https://www.youtube.com/watch?v=kMlkCYL9qo0&t=555s) gần đây (2 ngày khi mình viết bài này) khi Svelte được chọn là "Framework được yêu thích nhất", mình nghĩ đây là lúc.
 
-Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann: (a senior frontend developer and an author)
+Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann - A Senior Frontend Developer and an Author:
 
 "Chúng ta có thực sự cần một công cụ khác để xây dựng các ứng dụng web không?
 
