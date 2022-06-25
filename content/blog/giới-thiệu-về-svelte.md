@@ -3,13 +3,13 @@ title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
 cover: /assets/introducing_svelte.png
-tags: "# framework, Svelte"
+tags: "# framework, # Svelte"
 ---
-*Bài viết tham khảo phần chương 1 của quyển "Svelte and Sapper in Action" (Mark Volkmann) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" ([Josh Collinsworth](https://joshcollinsworth.com/)).*
+*Bài viết tham khảo chương 1 của quyển "Svelte and Sapper in Action" (Mark Volkmann) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" ([Josh Collinsworth](https://joshcollinsworth.com/)).*
 
 Mình luôn muốn viết một bài giới thiệu framework Svelte, nhưng "bị cái" làm biếng :). Nhân dịp tác giả của Svelte (Rich Harris) có [bài phỏng vấn](https://www.youtube.com/watch?v=kMlkCYL9qo0&t=555s) gần đây (2 ngày khi mình viết bài này) khi Svelte được chọn là "Framework được yêu thích nhất", mình nghĩ đây là lúc.
 
-Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann (a senior frontend developer and an author):
+Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann: (a senior frontend developer and an author)
 
 "Chúng ta có thực sự cần một công cụ khác để xây dựng các ứng dụng web không?
 
@@ -25,15 +25,15 @@ Nếu bạn giống mình, chắc bạn sẽ không quan tâm đến lịch sử
 
 > *Svelte có nghĩa là tinh tế, mảnh khảnh, gọn nhẹ. Điều này phần nào nói lên bản chất của framework.*
 
-Svelte được tạo ra bởi Rich Harris, điểm đặc biệt là Harris không hẳn là một lập trình viên. Thời điểm tạo ra Svelte anh là một nhà phát triển và biên tập đồ họa cho tờ New York Times nổi tiếng (hiện nay Harris đã được Vercel thuê làm việc toàn thời gian để phát triển Svelte)
+Svelte được tạo ra bởi Rich Harris, điểm đặc biệt là Harris không hẳn là một lập trình viên. Thời điểm tạo ra Svelte anh là một nhà phát triển và biên tập đồ họa cho tờ New York Times nổi tiếng (hiện nay Harris đã được Vercel thuê làm việc toàn thời gian để phát triển Svelte).
 
 Thế giới tin tức chuyển động nhanh chóng, vì vậy giao diện người dùng và hình ảnh tương tác mà Harris đang tạo cho Times cần được xây dựng nhanh nhất có thể. Nhưng vì điều quan trọng là tất cả mọi người đều có thể tiếp cận tin tức, những phần tương tác đó cũng phải nhỏ và hiệu quả nhất có thể.
 
-Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dựng nhưng vẫn sẽ hiệu quả và mượt mà cho bất kỳ trình duyệt nào trên bất kỳ thiết bị hoặc mạng nào, bất kể giới hạn như thế nào. Trong nhiều trường hợp, các gói JavaScript cồng kềnh là sản phẩm phụ của các framework khác khiến chúng không đủ tiêu chuẩn để xem xét. Vì vậy, Harris bắt đầu xây dựng giải pháp của riêng mình, và đó là cách Svelte ra đời.
+Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dựng nhưng vẫn phải hiệu quả và mượt mà cho bất kỳ trình duyệt nào trên bất kỳ thiết bị hoặc mạng nào, bất kể giới hạn như thế nào. Trong nhiều trường hợp, các gói JavaScript cồng kềnh là sản phẩm phụ của các framework khác khiến chúng không đủ tiêu chuẩn để xem xét. Vì vậy, Harris bắt đầu xây dựng giải pháp của riêng mình, và đó là cách Svelte ra đời.
 
 **Note:** về mặt technical, Svelte không hẳn là một framework mà là một compiler. Svelte build code ở thời điểm *build time*, thay vì thực thi code ở thời điểm *run time* như các framework khác. Lối tiếp cận khác biệt này giúp Svelte có nhiều ưu điểm so với các framework khác.
 
-### 2. Những ưu điểm của Svelte bao gồm:
+### 2. Những ưu điểm của Svelte:
 
 - Do đặc thù của tin tức là phải nhanh chóng, Svelte mang đến giải pháp bằng việc đơn giản hoá phần syntax và loại bỏ nhiều phần code không cần thiết (boilerplate code) khi lập trình. Các ứng dụng được tạo bằng Svelte yêu cầu ít mã hơn hầu hết các framework để triển khai chức năng tương đương.
 
@@ -71,13 +71,13 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm 1 thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
-> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Và để sử dụng các thư viện này thường đòi hỏi phải setup một lượng code tương đối. Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state theo mình là một ưu điểm rất lớn. 
+> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Và để sử dụng các thư viện này thường đòi hỏi phải setup một lượng code tương đối. Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state là một ưu điểm rất lớn. 
 
 - Ngoài những ưu điểm kể trên, đối với lập trình viên như chúng ta Svelte mang đến trải nghiệm rất tốt khi sử dụng (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là "A framework for developers". 
 
 > *Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev với nhiều năm tìm kiếm giải pháp cho các vấn đề ở frontend (cũng như học hỏi từ các framework khác) thêm vào. *
 
-**Note:** Trong "hệ sinh thái" của Svelte còn có [SvelteKit](https://kit.svelte.dev/) (tương tự NextJS của React, hay Nuxt của Vue) đang trong giai đoạn Beta. Ngoài ra còn có [Svelte Native](https://svelte-native.technology/) làm việc với mobile, hay [Svelte GL](https://github.com/Rich-Harris/svelte-gl) (vẫn còn là ý tưởng) làm việc với các hiệu ứng 3D.
+**Note:** Trong "hệ sinh thái" của Svelte còn có [SvelteKit](https://kit.svelte.dev/) (tương tự Next của React, hay Nuxt của Vue) đang trong giai đoạn Beta. Ngoài ra còn có [Svelte Native](https://svelte-native.technology/) làm việc với mobile, hay [Svelte GL](https://github.com/Rich-Harris/svelte-gl) (vẫn còn là ý tưởng) làm việc với các hiệu ứng 3D.
 
 Đến thời điểm này mình hi vọng đã thuyết phục được các bạn là Svelte đáng học (hoặc không ^_^). Nhưng không phải là Svelte không có nhược điểm, vì thế hãy đọc luôn phần sau để quyết định nhé!!
 
@@ -94,7 +94,7 @@ Tuy nhiên, nếu bạn đang bắt đầu một dự án mới hôm nay, hãy l
 
 WordPress, cung cấp khoảng 40% web vào thời điểm này, đã bỏ hỗ trợ cho IE-11 trong phiên bản WordPress 5.8 vào đầu năm nay. Và ngay cả chính Microsoft cũng sẽ đóng chiếc đinh cuối cùng vào cỗ quan tài của IE-11 vào tháng 7 năm 2022.
 
-#### Svelte khó trong việc tìm kiếm công việc, vì là một framework còn non trẻ:
+#### Svelte khó trong việc tìm kiếm công việc, hay xây dựng team project:
 
 Nếu bạn đang học với hy vọng kiếm được một công việc với các kỹ năng mới tìm thấy của mình, sẽ rất khó để đề xuất bất kỳ điều gì khác ngoài React cho mục tiêu theo đuổi đó — đơn giản vì đây là framework lớn nhất cho đến nay về thị phần và công việc có sẵn. 
 
