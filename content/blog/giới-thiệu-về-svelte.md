@@ -3,7 +3,7 @@ title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
 cover: /assets/introducing_svelte.png
-tags: "# framework, svelte"
+tags: "# framework"
 ---
 *Bài viết tham khảo chương 1 của quyển "Svelte and Sapper in Action" (Mark Volkmann) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" ([Josh Collinsworth](https://joshcollinsworth.com/)).*
 
@@ -85,7 +85,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 *Phần này mình hoàn toàn sử dụng nội dung trong bài viết của tác giả Josh. Bạn có thể xem bài viết gốc [tại đây](https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue). Bài viết rất hay chứa nhiều ví dụ so sánh rất chi tiết giữa Svelte với các framework khác.*
 
-#### Svelte không hỗ trợ Internet Explorer theo mặc định:
+*Svelte không hỗ trợ Internet Explorer theo mặc định:*
 
 Svelte yêu cầu polyfills chạy đúng cách trong Internet Explorer (và thậm chí như vậy, việc hỗ trợ cho bất kỳ phiên bản IE nào dưới 11 vẫn không được đảm bảo).
 Nếu bạn cần hỗ trợ IE-11, bạn có thể đọc vấn đề GitHub của Svelte/IE11, liệt kê một số cách giải quyết và polyfills có thể có. Hoặc đây có thể là một trường hợp cần phải lựa chọn một framework khác.
@@ -94,7 +94,7 @@ Tuy nhiên, nếu bạn đang bắt đầu một dự án mới hôm nay, hãy l
 
 WordPress, cung cấp khoảng 40% web vào thời điểm này, đã bỏ hỗ trợ cho IE-11 trong phiên bản WordPress 5.8 vào đầu năm nay. Và ngay cả chính Microsoft cũng sẽ đóng chiếc đinh cuối cùng vào cỗ quan tài của IE-11 vào tháng 7 năm 2022.
 
-#### Svelte khó trong việc tìm kiếm công việc, hay xây dựng team project:
+*Svelte khó trong việc tìm kiếm công việc, hay xây dựng team project:*
 
 Nếu bạn đang học với hy vọng kiếm được một công việc với các kỹ năng mới tìm thấy của mình, sẽ rất khó để đề xuất bất kỳ điều gì khác ngoài React cho mục tiêu theo đuổi đó — đơn giản vì đây là framework lớn nhất cho đến nay về thị phần và công việc có sẵn. 
 
