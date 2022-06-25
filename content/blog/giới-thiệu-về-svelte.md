@@ -3,7 +3,7 @@ title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
 cover: /assets/introducing_svelte.png
-tags: "# framework, # svelte"
+tags: "# framework, Svelte"
 ---
 *Bài viết tham khảo phần chương 1 của quyển "Svelte and Sapper in Action" của Mark Volkmann và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" của [Josh Collinsworth](https://joshcollinsworth.com/).*
 
@@ -25,7 +25,7 @@ Nếu bạn giống mình, chắc bạn sẽ không quan tâm đến lịch sử
 
 > *Svelte có nghĩa là tinh tế, mảnh khảnh, gọn nhẹ. Điều này phần nào nói lên bản chất của framework.*
 
-Svelte được tạo ra bởi Rich Harris, điểm đặc biệt là Harris không hẳn là một lập trình viên. Thời điểm tạo ra Svelte anh là một nhà phát triển và biên tập đồ họa cho tờ New York Times nổi tiếng. (Hiện nay Harris đã được Vercel thuê làm việc toàn thời gian để phát triển Svelte.)
+Svelte được tạo ra bởi Rich Harris, điểm đặc biệt là Harris không hẳn là một lập trình viên. Thời điểm tạo ra Svelte anh là một nhà phát triển và biên tập đồ họa cho tờ New York Times nổi tiếng (hiện nay Harris đã được Vercel thuê làm việc toàn thời gian để phát triển Svelte)
 
 Thế giới tin tức chuyển động nhanh chóng, vì vậy giao diện người dùng và hình ảnh tương tác mà Harris đang tạo cho Times cần được xây dựng nhanh nhất có thể. Nhưng vì điều quan trọng là tất cả mọi người đều có thể tiếp cận tin tức, những phần tương tác đó cũng phải nhỏ và hiệu quả nhất có thể.
 
@@ -94,7 +94,7 @@ Tuy nhiên, nếu bạn đang bắt đầu một dự án mới hôm nay, hãy l
 
 WordPress, cung cấp khoảng 40% web vào thời điểm này, đã bỏ hỗ trợ cho IE-11 trong phiên bản WordPress 5.8 vào đầu năm nay. Và ngay cả chính Microsoft cũng sẽ đóng chiếc đinh cuối cùng vào cỗ quan tài của IE-11 vào tháng 7 năm 2022.
 
-#### Svelte khó trong việc tìm kiếm công việc, vì là một framework còn non trẻ (so với các framework lâu đời khác):
+#### Svelte khó trong việc tìm kiếm công việc, vì là một framework còn non trẻ:
 
 Nếu bạn đang học với hy vọng kiếm được một công việc với các kỹ năng mới tìm thấy của mình, sẽ rất khó để đề xuất bất kỳ điều gì khác ngoài React cho mục tiêu theo đuổi đó — đơn giản vì đây là framework lớn nhất cho đến nay về thị phần và công việc có sẵn. 
 
