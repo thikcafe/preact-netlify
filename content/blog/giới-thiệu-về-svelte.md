@@ -5,7 +5,7 @@ subtitle: ""
 cover: /assets/introducing_svelte.png
 tags: "# framework, Svelte"
 ---
-*Bài viết tham khảo phần chương 1 của quyển "Svelte and Sapper in Action" của Mark Volkmann và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" của [Josh Collinsworth](https://joshcollinsworth.com/).*
+*Bài viết tham khảo phần chương 1 của quyển "Svelte and Sapper in Action" (Mark Volkmann) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" ([Josh Collinsworth](https://joshcollinsworth.com/)).*
 
 Mình luôn muốn viết một bài giới thiệu framework Svelte, nhưng "bị cái" làm biếng :). Nhân dịp tác giả của Svelte (Rich Harris) có [bài phỏng vấn](https://www.youtube.com/watch?v=kMlkCYL9qo0&t=555s) gần đây (2 ngày khi mình viết bài này) khi Svelte được chọn là "Framework được yêu thích nhất", mình nghĩ đây là lúc.
 
@@ -33,7 +33,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 **Note:** về mặt technical, Svelte không hẳn là một framework mà là một compiler. Svelte build code ở thời điểm *build time*, thay vì thực thi code ở thời điểm *run time* như các framework khác. Lối tiếp cận khác biệt này giúp Svelte có nhiều ưu điểm so với các framework khác.
 
-Những ưu điểm của Svelte bao gồm:
+### 2. Những ưu điểm của Svelte bao gồm:
 
 - Do đặc thù của tin tức là phải nhanh chóng, Svelte mang đến giải pháp bằng việc đơn giản hoá phần syntax và loại bỏ nhiều phần code không cần thiết (boilerplate code) khi lập trình. Các ứng dụng được tạo bằng Svelte yêu cầu ít mã hơn hầu hết các framework để triển khai chức năng tương đương.
 
@@ -81,7 +81,7 @@ Những ưu điểm của Svelte bao gồm:
 
 Đến thời điểm này mình hi vọng đã thuyết phục được các bạn là Svelte đáng học (hoặc không ^_^). Nhưng không phải là Svelte không có nhược điểm, vì thế hãy đọc luôn phần sau để quyết định nhé!!
 
-### 2. Những nhược điểm của Svelte:
+### 3. Những nhược điểm của Svelte:
 
 *Phần này mình hoàn toàn sử dụng nội dung trong bài viết của tác giả Josh. Bạn có thể xem bài viết gốc [tại đây](https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue). Bài viết rất hay chứa nhiều ví dụ so sánh rất chi tiết giữa Svelte với các framework khác.*
 
@@ -104,7 +104,7 @@ Bên cạnh đó nếu bạn đang chọn một công nghệ cho một dự án 
 
 Tuy nhiên, điều đó nói lên rằng: việc biết một framework JS có xu hướng làm cho việc học một framework mới dễ dàng hơn và Svelte theo ý kiến của tôi là dễ dàng nhất để bắt đầu. Tôi nghĩ rằng bất kỳ lập trình viên nào đã quen thuộc với một framework frontend khác có thể chọn Svelte khá nhanh (và ngược lại).
 
-### 3. Kết luận:
+### 4. Kết luận:
 
 Mặc dù có những khuyết điểm (chủ yếu là vì Svelte vẫn còn khá mới), nhưng với tốc độ phát triển hiện tại của Svelte mình tin Svelte có một vị trí trong lập trình web. Như một câu nói: "Svelte không là một xu hướng công nghệ, nó là tương lai của web." 
 
