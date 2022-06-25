@@ -2,14 +2,22 @@
 title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
-cover: https://joshcollinsworth.com/images/post_images/introducing_svelte.png
-tags: "\x1fsvelte"
+cover: /assets/introducing_svelte.png
+tags: framework, svelte
 ---
-*Bài viết tham khảo phần chương 1 của quyển "Svelte in action and Sapper" của Mark Volkmann (phần số liệu) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" của [Josh Collinsworth](https://joshcollinsworth.com/).*
+*Bài viết tham khảo phần chương 1 của quyển "Svelte and Sapper in Action" của Mark Volkmann (phần số liệu) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" của [Josh Collinsworth](https://joshcollinsworth.com/).*
 
 Mình luôn muốn viết một bài giới thiệu framework Svelte, nhưng "bị cái" làm biếng :). Nhân dịp tác giả của Svelte (Rich Harris) có [bài phỏng vấn](https://www.youtube.com/watch?v=kMlkCYL9qo0&t=555s) gần đây (2 ngày khi mình viết bài này) khi Svelte được chọn là "Framework được yêu thích nhất", mình nghĩ đây là lúc.
 
-Svelte là một công cụ để xây dựng các ứng dụng web dựa trên JavaScript. Nó là một giải pháp thay thế cho các framework frontend như React, Vue và Angular. Giống như chúng, Svelte tạo ra các thành phần (component) giao diện người dùng (UI) và tương tác giữa các component này với nhau. Mỗi thành phần (component) là một phần độc lập, có khả năng tái sử dụng để tạo ra các giao diện người dùng lớn hơn (vd: 1 trang web) có thể được thiết kế và triển khai độc lập.
+Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann (a senior frontend developer and an author):
+
+"Chúng ta có thực sự cần một công cụ khác để xây dựng các ứng dụng web không?
+
+Nỗ lực tìm hiểu một cách tiếp cận khác chỉ đáng giá nếu nó mang lại những lợi ích đáng kể. Có lẽ nó có thể yêu cầu viết ít mã hơn để đạt được kết quả tương tự. Có thể nó giúp thực hiện ít công việc thực tế hơn trong thời gian chạy để đạt được kết quả tương tự. Hoặc có lẽ nó có thể dẫn đến tổng số byte cần tải xuống trình duyệt ít hơn.
+
+*Svelte thực hiện tất cả các mục tiêu này và hơn thế nữa.*"
+
+Svelte là một công cụ để xây dựng các ứng dụng web dựa trên JavaScript. Là một framework frontend còn khá mới (Svelte được giới thiệu lần đầu vào năm 2016) bên cạnh các framework như React, Vue và Angular. Giống như chúng, Svelte tạo ra các thành phần (component) giao diện người dùng (UI) và tương tác giữa các component này với nhau. Mỗi thành phần (component) là một phần độc lập, có khả năng tái sử dụng để tạo ra các giao diện người dùng lớn hơn (vd: 1 trang web) có thể được thiết kế và triển khai độc lập.
 
 ### 1. Sự hình thành của Svelte:
 
