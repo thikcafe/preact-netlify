@@ -9,7 +9,7 @@ tags: "# framework, svelte,"
 
 Mình luôn muốn viết một bài giới thiệu framework Svelte, nhưng "bị cái" làm biếng :). Nhân dịp tác giả của Svelte (Rich Harris) có [bài phỏng vấn](https://www.youtube.com/watch?v=kMlkCYL9qo0&t=555s) gần đây (2 ngày khi mình viết bài này) khi Svelte được chọn là "Framework được yêu thích nhất", mình nghĩ đây là lúc.
 
-Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann - A Senior Frontend Developer and an Author:
+Mình muốn bắt đầu với việc trích dẫn lời của Mark Volkmann - một kỹ sư phần mềm với 40 năm kinh nghiệm và là một tác giả:
 
 "Chúng ta có thực sự cần một công cụ khác để xây dựng các ứng dụng web không?
 
