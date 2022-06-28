@@ -3,7 +3,7 @@ title: Giới thiệu framework Svelte
 date: 2022-06-24T16:37:24.287Z
 subtitle: ""
 cover: /assets/introducing_svelte.png
-tags: "# framework"
+tags: "# framework, svelte,"
 ---
 *Bài viết tham khảo chương 1 của quyển "Svelte and Sapper in Action" (Mark Volkmann) và bài viết "Introducing Svelte, and Comparing Svelte with React and Vue" ([Josh Collinsworth](https://joshcollinsworth.com/)).*
 
