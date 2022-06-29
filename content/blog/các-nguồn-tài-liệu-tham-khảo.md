@@ -37,11 +37,11 @@ Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS 
 
 - Khoá học Javascript (Wes Bos):
 
-Miễn phí: <https://javascript30.com/>
+> Miễn phí: <https://javascript30.com/>
 
-Có phí (giảm 52%): <https://beginnerjavascript.com/>
+> Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-ES6 (+ Typescript): <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
+- ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
 
 Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC "khoá học bootcamp của frontend masters") miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
 
