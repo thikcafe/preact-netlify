@@ -21,7 +21,7 @@ const photographs = (props) => {
 					</div>
 					<br />
 					<div>
-						Các bạn có thể kết bạn với mình qua Zalo - 0845112378
+						Các bạn có thể kết bạn với mình qua Zalo - 0845112378, hay email - thikcafe13@gmail.com.
 					</div>
 					<br />
 					<div>
