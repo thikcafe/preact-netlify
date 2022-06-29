@@ -1,11 +1,15 @@
 ---
 title: Các nguồn tài liệu tham khảo
 date: 2022-06-18T14:19:44.722Z
-tags: "# resources"
+tags: "# resources,"
 ---
 Bài viết này chủ yếu để giới thiệu với các bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
 
 ### 1. Các công cụ hỗ trợ:
+
+- CLI (command line interface): <https://www.w3schools.com/whatis/whatis_cli.asp>
+
+> **Optional**: bạn có thể tham khảo thêm phần NPM cũng ở link trên. Ngoài ra còn có [tutorial](https://commandlinepoweruser.com/) (để bắt đầu bạn chỉ cần tham khảo video thứ 2 - command line basics)
 
 - Git (version control): <https://www.udacity.com/course/version-control-with-git--ud123>
 
@@ -37,11 +41,11 @@ Miễn phí: <https://javascript30.com/>
 
 Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-ES6 (52% off): <https://beginnerjavascript.com/>
+ES6 (+ Typescript): <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
 
 Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
 
-**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/), hay [MDN](https://developer.mozilla.org/en-US/) (được sử dụng rất nhiều). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
+**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/) (ngắn gọn dễ hiểu, nhưng khá cơ bản thích hợp cho cho các bạn mới bắt đầu), hay [MDN](https://developer.mozilla.org/en-US/) (được sử dụng nhiều hơn khi các bạn đã có kiến thức - kinh nghiệm). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
 
 ### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
 
@@ -75,9 +79,11 @@ Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn c�
 
 Điểm hay trong cách dạy của Thầy là vì Thầy biết tiếng Việt nên Thầy biết được những lỗi mà người Việt hay mắc phải khi nói tiếng Anh, và gợi ý rất nhiều mẹo hay cho phần phát âm. Bên cạnh đó chắc chắn khi xem video của Thầy, các bạn cũng sẽ thấy rất có tính... giải trí (nhiều khi mình xem lại clip chỉ vì nó... "sáng tạo" quá ^_^) 
 
+**Bonus**: [phương pháp học ngoại ngữ](https://www.youtube.com/watch?v=fnUc_W3xE1w) (chất lượng video khá kém vì được ghi hình từ rất lâu, nhưng nội dung theo cá nhân mình thì là một *ngoại lệ* trong các video nói về phương pháp học ngoại ngữ)
+
 ### 5. Youtube:
 
-Mình ít đề cập đến các kênh Youtube (ngoại trừ tiếng Anh) vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng (có thể ít phù hợp với các bạn mới bắt đầu). Nhưng các kênh Youtube cũng có ích khi các bạn đã có kiến thức (kinh nghiệm) cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
+Mình ít đề cập đến các kênh Youtube vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng (có thể ít phù hợp với các bạn mới bắt đầu). Nhưng các kênh Youtube cũng có ích khi các bạn đã có kiến thức (kinh nghiệm) cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
 
 Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
 
@@ -97,9 +103,9 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 ** Ghi chú: ** Còn nhiều nền tảng học khác như Plural Sight (search google các bạn có thể tìm được cách để có tài khoản học miễn phí 1 tháng), Udemy (mình không thật sự là fan của nền tảng này), Lynda.com (nay đã kết hợp với LinkdedIn) vân vân, **những nguồn mình liệt kê phía trên chỉ là bản thân mình thường sử dụng.** 
 
-Nếu có khó khăn về phần tiếng anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
+Nếu có khó khăn về phần tiếng Anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, *thuật toán* (có ích khi phỏng vấn), hay như làm thế nào để * refactor code * đã có trước đó... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
+Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa) (có ích khi phỏng vấn), hay *code refactor* (legacy code)... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
 
 Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/) có phí), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
 
