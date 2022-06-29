@@ -9,7 +9,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 - CLI (command line interface): <https://www.w3schools.com/whatis/whatis_cli.asp>
 
-> **Optional**: bạn có thể tham khảo thêm phần NPM cũng ở link trên. Ngoài ra còn có [video tutorial](https://commandlinepoweruser.com/) (để bắt đầu bạn chỉ cần tham khảo video thứ 2 - command line basics)
+> **Optional**: bạn có thể tham khảo thêm phần NPM cũng ở link trên. Ngoài ra còn có [tutorial](https://commandlinepoweruser.com/) (để bắt đầu bạn chỉ cần tham khảo video thứ 2 - command line basics)
 
 - Git (version control): <https://www.udacity.com/course/version-control-with-git--ud123>
 
@@ -105,7 +105,7 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 Nếu có khó khăn về phần tiếng Anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa) (có ích khi phỏng vấn), *code refactor* (legacy code)... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
+Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa) (có ích khi phỏng vấn), hay *code refactor* (legacy code)... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
 
 Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/) có phí), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
 
