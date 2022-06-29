@@ -9,8 +9,8 @@ const photographs = (props) => {
 				<p class={style.pageBody}>
 					<div>
 						Mình là một frontend developer, có một thời gian làm việc ở FPT. Hiện mình đã
-						nghỉ và có nguyện vọng dành thời gian để hướng dẫn các bạn khiếm khuyết - khuyết 
-						tật có mong muốn tìm hiểu về lập trình (web). 
+						nghỉ và có nguyện vọng dành thời gian để hướng dẫn các bạn khiếm khuyết có mong 
+						muốn tìm hiểu về lập trình (web). 
 					</div>
 					<br />
 					<div>
@@ -21,7 +21,7 @@ const photographs = (props) => {
 					</div>
 					<br />
 					<div>
-						Các bạn có thể kết bạn với mình qua Zalo: +0909090909 
+						Các bạn có thể kết bạn với mình qua Zalo - 0845112378
 					</div>
 					<br />
 					<div>
