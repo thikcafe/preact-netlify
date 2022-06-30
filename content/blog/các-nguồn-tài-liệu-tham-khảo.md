@@ -43,6 +43,8 @@ Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS 
 
 - ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
 
+> *Lúc mới bắt đầu các bạn có thể chưa cần học Typescript. Typescript có ích khi các bạn làm việc với một framework frontend (ngay cả khi đó, phần này có thể cũng không bắt buộc).*
+
 Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC "khoá học bootcamp của frontend masters") miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
 
 **Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/ "trang w3schools") (ngắn gọn dễ hiểu, nhưng khá cơ bản thích hợp cho cho các bạn mới bắt đầu), hay [MDN](https://developer.mozilla.org/en-US/ "trang MDN") (được sử dụng nhiều hơn khi các bạn đã có kiến thức - kinh nghiệm). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
