@@ -7,7 +7,9 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 ### 1. Các công cụ hỗ trợ:
 
-- CLI (command line interface): <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line>
+- CLI (command line interface):
+
+> <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line>
 
 > CLI nằm trong những công cụ được sử dụng trong công việc hàng ngày của dev. Điều tốt là bạn chỉ cần một số kiến thức cơ bản để bắt đầu, và tài liệu của MDN rất phù hợp. 
 
@@ -47,7 +49,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC "khoá học bootcamp của frontend masters") miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
 
-**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/ "trang w3schools") (ngắn gọn dễ hiểu, nhưng khá cơ bản thích hợp cho cho các bạn mới bắt đầu), hay [MDN](https://developer.mozilla.org/en-US/ "trang MDN") (được sử dụng nhiều hơn khi các bạn đã có kiến thức - kinh nghiệm). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
+**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/ "trang w3schools") (ngắn gọn dễ hiểu, nhưng khá cơ bản thích hợp cho các bạn mới bắt đầu), hay [MDN](https://developer.mozilla.org/en-US/ "trang MDN") (được sử dụng nhiều hơn khi các bạn đã có kiến thức - kinh nghiệm). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
 
 ### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
 
@@ -81,7 +83,7 @@ Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn c�
 
 Điểm hay trong cách dạy của Thầy là vì Thầy biết tiếng Việt nên Thầy biết được những lỗi mà người Việt hay mắc phải khi nói tiếng Anh, và gợi ý rất nhiều mẹo hay cho phần phát âm. Bên cạnh đó chắc chắn khi xem video của Thầy, các bạn cũng sẽ thấy rất có tính... giải trí (nhiều khi mình xem lại clip chỉ vì nó... "sáng tạo" quá ^_^) 
 
-**Bonus**: [phương pháp học ngoại ngữ](https://www.youtube.com/watch?v=fnUc_W3xE1w "Stephen Krashen's lecture") (chất lượng video khá kém vì được ghi hình từ rất lâu, nhưng nội dung theo cá nhân mình thì là một *ngoại lệ* trong các video nói về phương pháp học ngoại ngữ)
+**Bonus**: [phương pháp học ngoại ngữ](https://www.youtube.com/watch?v=fnUc_W3xE1w "Stephen Krashen's lecture"). Chất lượng video khá kém vì được ghi hình từ rất lâu, nhưng nội dung theo cá nhân mình thì là một *ngoại lệ* trong các video nói về phương pháp học ngoại ngữ.
 
 ### 5. Youtube:
 
