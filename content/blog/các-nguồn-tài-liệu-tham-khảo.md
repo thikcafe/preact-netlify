@@ -107,7 +107,15 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 Nếu có khó khăn về phần tiếng Anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7 "Scrimba channel") *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx "Scrimba channel") *, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa "Code Evolution channel") (có ích khi phỏng vấn), hay *code refactor* (legacy code)... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
+Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7 "Scrimba channel")*, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx "Scrimba channel")*, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa "Code Evolution channel"), hay *code refactor*... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
+
+- Clean code: việc code được viết dễ hiểu là vô cùng quan trọng, kiến thức này nên được học ngay từ đầu.
+
+- Unit test:  testing đóng vai trò quan trọng, nhưng đôi khi bị bỏ qua ở 1 số công ty. Vì thế kiến thức có thể bổ sung sau, khi đi làm (tuỳ môi trường làm việc). Nhưng về lâu dài đây là kỹ năng vô cùng quan trọng, nó giúp bạn chuyên nghiệp hơn trong việc phát triển ứng dụng. Nhờ thế có thể giúp đi xa hơn trong công việc lập trình.
+
+- Thuật toán: trong lập trình hàng ngày có thể không sử dụng quá nhiều kiến thức này. Nên thường được hiểu là hữu dụng khi đi phỏng vấn (nhất là ở những công ty có quy mô vừa - lớn)
+
+- Code refactor: làm việc với những dự án đã được phát triển trước (legacy code) là rất phổ biến. Vì thế kiến thức về code refactor rất hữu ích (đặc biệt là ở những công ty chuyên về outsource). Kỹ năng này cũng giúp phân biệt một dev có kinh nghiệm. Vì nó thường được tích luỹ qua nhiều năm làm dự án.
 
 Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/ "trang của Wes Bos") có phí), Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
 
