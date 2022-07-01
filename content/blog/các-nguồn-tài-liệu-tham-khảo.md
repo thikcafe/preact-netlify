@@ -7,17 +7,17 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 ### 1. Các công cụ hỗ trợ:
 
-- CLI (command line interface): <https://www.w3schools.com/whatis/whatis_cli.asp>
+- CLI (command line interface): <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line>
 
-> **Optional**: bạn có thể tham khảo thêm phần NPM cũng ở link trên. Ngoài ra còn có [tutorial](https://commandlinepoweruser.com/ "command line tutorial") (để bắt đầu bạn chỉ cần tham khảo video thứ 2 - command line basics)
+> CLI nằm trong những công cụ được sử dụng trong công việc hàng ngày của dev. Điều tốt là bạn chỉ cần một số kiến thức cơ bản để bắt đầu, và tài liệu của MDN rất phù hợp. 
 
 - Git (version control): <https://www.udacity.com/course/version-control-with-git--ud123>
 
-Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
+> Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
 
 - IDE (Visual Code): <https://frontendmasters.com/courses/customize-vs-code/>
 
-Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web)
+> Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web)
 
 ### 2. Lập trình web: 
 
@@ -31,7 +31,7 @@ Visual Code ngày càng phổ biến với vai trò là một IDE cho cả front
 
 - CSSGrid ([Wes Bos](https://wesbos.com/  "trang chủ Wes Bos")): <https://cssgrid.io/>
 
-Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/ "trang CSS tricks") để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
+> Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/ "trang CSS tricks") để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
 - Giới thiệu Javascript: <https://www.udacity.com/course/intro-to-javascript--ud803>
 
