@@ -71,11 +71,11 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm 1 thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
-> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Và để sử dụng các thư viện này thường đòi hỏi phải setup một lượng code tương đối (boilerplate code). 
+> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý state không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Việc này cũng làm kéo dài thêm thời gian để thành thạo về framework. 
 
-> Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state là một ưu điểm rất lớn.  Điều này cũng giúp việc tiếp cận Svelte trở nên đơn giản, và mất ít thời gian hơn các framework khác.
+> Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state là một ưu điểm rất lớn.  Đồng thời giúp việc tiếp cận Svelte trở nên đơn giản, và mất ít thời gian hơn các framework khác.
 
-- Svelte mang đến trải nghiệm tuyệt vời cho lập trình viên (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là "A framework for developers". 
+- Svelte mang đến trải nghiệm tuyệt vời cho lập trình viên (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là *a framework for developers*. 
 
 > *Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev với nhiều năm tìm kiếm giải pháp cho các vấn đề ở frontend (cũng như học hỏi từ các framework khác) thêm vào. *
 
