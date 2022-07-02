@@ -19,9 +19,11 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 - IDE (Visual Code): <https://frontendmasters.com/courses/customize-vs-code/>
 
-> Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web). Các bạn không cần biết hết kiến thức trong khoá học, vài phần các bạn hoàn toàn có thể bỏ qua lúc đầu (ví dụ: docker). Theo mình phần quan trọng nhất là Git. Các bạn cứ chọn những phần mình cần đủ để bắt đầu, và bổ sung những phần còn lại sau (khi có thời gian, hay công việc đòi hỏi). 
+> Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web).
+ 
+> *Các bạn không cần biết hết kiến thức trong khoá học, vài phần các bạn hoàn toàn có thể bỏ qua lúc đầu (ví dụ: docker). Theo mình phần quan trọng nhất là Git. Các bạn cứ chọn những phần mình cần đủ để bắt đầu, và bổ sung những phần còn lại sau (khi có thời gian, hay công việc đòi hỏi).* 
 
-**Tip**: Người tạo ra C++ (Bjarne Stroustrup) có lời khuyên là nắm vừa đủ kiến thức để có cái nhìn tổng quan và cho công việc trước mắt. Dần dần bổ sung những kiến thức còn lại, tránh việc cố học hết mọi khái niệm khi tìm hiểu kiến thức mới.
+**Tip**: Người tạo ra C++ (Bjarne Stroustrup) có lời khuyên là nắm vừa đủ kiến thức để có cái nhìn tổng quan về những gì mà công nghệ có thể mang lại. Dần dần đào sâu bổ sung những kiến thức còn thiếu, tránh việc cố học hết mọi khái niệm khi tìm hiểu một ngôn ngữ (công cụ) mới.
 
 ### 2. Lập trình web: 
 
