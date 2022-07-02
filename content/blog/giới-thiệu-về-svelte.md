@@ -69,7 +69,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, giúp tăng trải nghiệm người dùng). Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn, bao gồm cả người dùng sử dụng các thiết bị như Screen Reader), hay scoped CSS... 
 
-- Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm 1 thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
+- Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm một thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
 > Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý state không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Việc này cũng làm kéo dài thêm thời gian để thành thạo về framework. 
 
@@ -77,7 +77,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Svelte mang đến trải nghiệm tuyệt vời cho lập trình viên (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là *a framework for developers*. 
 
-> *Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev với nhiều năm tìm kiếm giải pháp cho các vấn đề ở frontend (cũng như học hỏi từ các framework khác) thêm vào. *
+> *Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev với nhiều năm tìm kiếm giải pháp cho các vấn đề ở frontend (cũng như học hỏi từ các framework khác) thêm vào*.
 
 - Ngoài những ưu điểm kể trên, Svelte cũng là một lựa chọn lý tưởng cho những bạn mới bắt đầu muốn tìm hiểu về một framework frontend. Vì Svelte mang trong mình "triết lý" về sự đơn giản và hiệu quả.
 
