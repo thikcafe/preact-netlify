@@ -125,6 +125,14 @@ Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn
 
 Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/ "trang của Wes Bos") có phí), Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
 
+- React: có cơ hội tuyển dụng cao nhất trong các framework.
+
+- Angular: thời gian học, làm quen framework có lẽ là dài nhất.
+
+- Vue: phần docs đôi khi gây khó khăn, phần nhiều là do có sự khác biệt lớn giữa version 2 và 3.
+
+- Svelte: cái tên mới nhất trong các framework frontend. Vị trí tuyển dụng cho framework này chưa nhiều.
+
 **Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
 P/S: Nếu các nguồn miễn phí mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists "Scrimba channel"), [Wes Bos](https://www.youtube.com/c/WesBos/playlists "Wes Bos channel"),...) để ủng hộ nhé :)
