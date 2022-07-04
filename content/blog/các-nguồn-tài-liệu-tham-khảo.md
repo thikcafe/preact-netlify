@@ -47,7 +47,9 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-- ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
+- ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): 
+
+> <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
 
 > *Lúc mới bắt đầu các bạn có thể chưa cần học Typescript. Typescript có ích khi các bạn làm việc với một framework frontend (ngay cả khi đó, phần này có thể cũng không bắt buộc. Framework Angular là một ngoại lệ).*
 
