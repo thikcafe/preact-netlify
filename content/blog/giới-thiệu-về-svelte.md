@@ -17,7 +17,7 @@ Nỗ lực tìm hiểu một cách tiếp cận khác chỉ đáng giá nếu n�
 
 *Svelte thực hiện tất cả các mục tiêu này và hơn thế nữa.*"
 
-[Svelte](https://svelte.dev/) là một công cụ để xây dựng các ứng dụng web dựa trên JavaScript. Là một framework frontend còn khá mới (Svelte được giới thiệu lần đầu vào năm 2016) bên cạnh các framework như React, Vue và Angular. Giống như chúng, Svelte tạo ra các thành phần (component) giao diện người dùng (UI) và tương tác giữa các component này với nhau. Mỗi thành phần (component) là một phần độc lập, có khả năng tái sử dụng để tạo ra các giao diện người dùng lớn hơn (vd: 1 trang web) có thể được thiết kế và triển khai độc lập.
+[Svelte](https://svelte.dev/) là một công cụ để xây dựng các ứng dụng web dựa trên JavaScript. Là một framework frontend còn khá mới (Svelte được giới thiệu lần đầu vào năm 2016) bên cạnh các framework như React, Vue và Angular. Giống như chúng, Svelte tạo ra các thành phần (component) giao diện người dùng (UI) và tương tác giữa các component này với nhau. Mỗi thành phần (component) là một phần độc lập, có khả năng tái sử dụng để tạo ra các giao diện người dùng lớn hơn (ví dụ: 1 trang web) có thể được thiết kế và triển khai độc lập.
 
 ### 1. Sự hình thành của Svelte:
 
@@ -69,13 +69,19 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, giúp tăng trải nghiệm người dùng). Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn, bao gồm cả người dùng sử dụng các thiết bị như Screen Reader), hay scoped CSS... 
 
-- Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm 1 thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
+- Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm một thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
-> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Và để sử dụng các thư viện này thường đòi hỏi phải setup một lượng code tương đối. Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state là một ưu điểm rất lớn. 
+> Nếu các bạn từng làm việc với các framework khác, chắc các bạn cũng đồng ý là việc học thêm về một thư viện để quản lý state không hẳn là một việc dễ dàng (đặc biệt là khi mới tìm hiểu framework). Việc này cũng làm kéo dài thêm thời gian để thành thạo về framework. 
 
-- Ngoài những ưu điểm kể trên, đối với lập trình viên như chúng ta Svelte mang đến trải nghiệm rất tốt khi sử dụng (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là "A framework for developers". 
+> Việc Svelte không sử dụng bất kỳ thư viện nào để quản lý state là một ưu điểm rất lớn.  Đồng thời giúp việc tiếp cận Svelte trở nên đơn giản, và mất ít thời gian hơn các framework khác.
 
-> *Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev với nhiều năm tìm kiếm giải pháp cho các vấn đề ở frontend (cũng như học hỏi từ các framework khác) thêm vào. *
+- Svelte mang đến trải nghiệm tuyệt vời cho lập trình viên (từ thời điểm ra mắt Svelte luôn được xếp vào top các framework được cộng đồng dev yêu thích nhất). Nguyên nhân của điều này là vì tác giả của Svelte (Harris) đã định hướng Svelte là *a framework for developers*. 
+
+> *Svelte được phát triển theo dạng mã nguồn mở, và các tính năng của nó là những tính năng mà cộng đồng dev với nhiều năm tìm kiếm giải pháp cho các vấn đề ở frontend (cũng như học hỏi từ các framework khác) thêm vào*.
+
+- Ngoài những ưu điểm kể trên, Svelte cũng là một lựa chọn lý tưởng cho những bạn mới bắt đầu muốn tìm hiểu về một framework frontend. Vì Svelte mang trong mình "triết lý" về sự đơn giản và hiệu quả.
+
+> *Việc biết một framework JS có xu hướng làm cho việc học một framework mới dễ dàng hơn và Svelte theo ý kiến của tôi (Josh Collinsworth) là dễ dàng nhất để bắt đầu. Tôi nghĩ rằng bất kỳ lập trình viên nào đã quen thuộc với một framework frontend khác có thể học Svelte khá nhanh (và ngược lại).*
 
 **Note:** Trong "hệ sinh thái" của Svelte còn có [SvelteKit](https://kit.svelte.dev/) (tương tự Next của React, hay Nuxt của Vue) đang trong giai đoạn Beta. Ngoài ra còn có [Svelte Native](https://svelte-native.technology/) làm việc với mobile, hay [Svelte GL](https://github.com/Rich-Harris/svelte-gl) (vẫn còn là ý tưởng) làm việc với các hiệu ứng 3D.
 
@@ -102,10 +108,10 @@ Tôi ước điều đó không phải như vậy, nhưng công nghệ nói chun
 
 Bên cạnh đó nếu bạn đang chọn một công nghệ cho một dự án hoặc công ty mới khởi nghiệp? Svelte có thể sẽ cho phép bạn di chuyển nhanh hơn và xây dựng thứ gì đó hiệu quả hơn, nhưng tuyển dụng hoặc cộng tác có thể là một thách thức, do số lượng lập trình viên Svelte tương đối nhỏ. 
 
-Tuy nhiên, điều đó nói lên rằng: việc biết một framework JS có xu hướng làm cho việc học một framework mới dễ dàng hơn và Svelte theo ý kiến của tôi là dễ dàng nhất để bắt đầu. Tôi nghĩ rằng bất kỳ lập trình viên nào đã quen thuộc với một framework frontend khác có thể chọn Svelte khá nhanh (và ngược lại).
-
 ### 4. Kết luận:
 
-Mặc dù có những khuyết điểm (chủ yếu là vì Svelte vẫn còn khá mới), nhưng với tốc độ phát triển hiện tại của Svelte mình tin Svelte có một vị trí trong lập trình web. Như một câu nói: "Svelte không là một xu hướng công nghệ, nó là tương lai của web." 
+Mặc dù có những khuyết điểm (chủ yếu là vì Svelte vẫn còn khá mới), nhưng với tốc độ phát triển hiện tại của Svelte mình tin Svelte sẽ có một vị trí trong lập trình web. Nếu các bạn vẫn có sự lo ngại, liệu Svelte có thực sự là giải pháp đủ tốt đối với những dự án lớn trong thực tế không, thì hãy cân nhắc điều sau: 
+
+Svelte được xây dựng với ý định ban đầu là tìm một giải pháp nhanh chóng và hiệu quả để đáp ứng với những nhu cầu thực tế của The New York Times (điều này tương tự với React là giải pháp cho Facebook khi được tạo ra, trước khi được publish sử dụng). Và Svelte đã chứng minh được tính hiệu quả, đồng thời đáp ứng rất tốt những yêu cầu của một tờ báo toàn cầu. Vì thế mình nghĩ Svelte hoàn toàn có thể là lựa chọn phù hợp cho các ứng dụng mà chúng ta mong muốn xây dựng.
 
 Ngoài ra không tuyệt vời sao khi một framework có thể mang đến trải nghiệm người dùng tốt hơn, làm việc hiệu quả trên nhiều nền tảng (hạn chế) khác nhau và đồng thời thân thiện với người phát triển?

@@ -1,23 +1,29 @@
 ---
-title: Các nguồn tài liệu tham khảo
+title: Các nguồn tài liệu tham khảo (Frontend)
 date: 2022-06-18T14:19:44.722Z
 tags: "# resources,"
 ---
-Bài viết này chủ yếu để giới thiệu với các bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
+Bài viết này chủ yếu để giới thiệu với các bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình frontend. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
 
 ### 1. Các công cụ hỗ trợ:
 
-- CLI (command line interface): <https://www.w3schools.com/whatis/whatis_cli.asp>
+- CLI (command line interface):
 
-> **Optional**: bạn có thể tham khảo thêm phần NPM cũng ở link trên. Ngoài ra còn có [tutorial](https://commandlinepoweruser.com/) (để bắt đầu bạn chỉ cần tham khảo video thứ 2 - command line basics)
+> <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line>
+
+> CLI nằm trong những công cụ được sử dụng trong công việc hàng ngày của dev. Điều tốt là bạn chỉ cần một số kiến thức cơ bản để bắt đầu, và tài liệu của MDN rất phù hợp. 
 
 - Git (version control): <https://www.udacity.com/course/version-control-with-git--ud123>
 
-Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
+> Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
 
 - IDE (Visual Code): <https://frontendmasters.com/courses/customize-vs-code/>
 
-Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web)
+> Visual Code ngày càng phổ biến với vai trò là một IDE cho cả frontend và backend (đặc biệt đối với lập trình web).
+ 
+> *Các bạn không cần biết hết kiến thức trong khoá học, vài phần các bạn hoàn toàn có thể bỏ qua lúc đầu (ví dụ: docker). Theo mình phần quan trọng nhất là Git. Các bạn cứ chọn những phần mình cần đủ để bắt đầu, và bổ sung những phần còn lại sau (khi có thời gian, hay công việc đòi hỏi).* 
+
+**Tip**: Người tạo ra C++ (Bjarne Stroustrup) có lời khuyên là nắm vừa đủ kiến thức để có cái nhìn tổng quan về những gì mà công nghệ có thể mang lại. Dần dần đào sâu bổ sung những kiến thức còn thiếu, tránh việc cố học hết mọi khái niệm khi tìm hiểu một ngôn ngữ (công cụ) mới.
 
 ### 2. Lập trình web: 
 
@@ -27,25 +33,29 @@ Visual Code ngày càng phổ biến với vai trò là một IDE cho cả front
 
 - HTML & CSS (Advanced): <https://learn.shayhowe.com/advanced-html-css/>
 
-- Flexbox ([Wes Bos](https://wesbos.com/courses)): <https://flexbox.io/>
+- Flexbox ([Wes Bos](https://wesbos.com/courses "khoá học của Wes Bos")): <https://flexbox.io/>
 
-- CSSGrid ([Wes Bos](https://wesbos.com/)): <https://cssgrid.io/>
+- CSSGrid ([Wes Bos](https://wesbos.com/  "trang chủ Wes Bos")): <https://cssgrid.io/>
 
-Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/) để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
+> Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/ "trang CSS tricks") để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
 - Giới thiệu Javascript: <https://www.udacity.com/course/intro-to-javascript--ud803>
 
 - Khoá học Javascript (Wes Bos):
 
-Miễn phí: <https://javascript30.com/>
+> Miễn phí: <https://javascript30.com/>
 
-Có phí (giảm 52%): <https://beginnerjavascript.com/>
+> Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-ES6 (+ Typescript): <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
+- ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): 
 
-Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC) miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
+> <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
 
-**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/) (ngắn gọn dễ hiểu, nhưng khá cơ bản thích hợp cho cho các bạn mới bắt đầu), hay [MDN](https://developer.mozilla.org/en-US/) (được sử dụng nhiều hơn khi các bạn đã có kiến thức - kinh nghiệm). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
+> *Lúc mới bắt đầu các bạn có thể chưa cần học Typescript. Typescript có ích khi các bạn làm việc với một framework frontend (ngay cả khi đó, phần này có thể cũng không bắt buộc. Framework Angular là một ngoại lệ).*
+
+Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.com/bootcamp/#joinBC "khoá học bootcamp của frontend masters") miễn phí kiến thức từ HTML, CSS đến JS. Nhưng mình nghĩ các bạn sử dụng các nguồn tài liệu riêng lẻ ở trên sẽ tốt hơn. 
+
+**Tip**: có một vài trang mà dev chúng ta hay dùng để tra cứu nhanh 1 khái niệm nào đó về HTML, CSS hay JS như [w3shools](https://www.w3schools.com/ "trang w3schools") (ngắn gọn dễ hiểu, nhưng khá cơ bản thích hợp cho các bạn mới bắt đầu), hay [MDN](https://developer.mozilla.org/en-US/ "trang MDN") (được sử dụng nhiều hơn khi các bạn đã có kiến thức - kinh nghiệm). Ví dụ, bạn có thể gõ vào google "mdn keyword" - keyword là từ khoá bạn muốn.
 
 ### 3. Nền tảng học trực tuyến: (chứng chỉ thường kèm phí)
 
@@ -53,7 +63,7 @@ Ngoài ra trang Frontend Masters có 1 khoá [bootcamp](https://frontendmasters.
 
 Coursera có phần hỗ trợ tài chính (Financial aid), các bạn phải điền form và chờ khoảng 10 ngày để được duyệt.  Nếu được chấp thuận, các bạn có thể lấy chứng chỉ mà không mất phí. Mình cũng từng lấy 1-2 chứng chỉ của Coursera theo cách này, cũng không quá khó để được chấp nhận đâu :)
 
-Ngoài ra Coursera còn có phần Specialization, thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design)".
+Ngoài ra Coursera còn có phần Specialization, thường về 1 chủ đề lớn gồm nhiều chứng chỉ môn kết hợp. Nếu hoàn thành phần Specialization các bạn có thể nhận được 1 chứng chỉ toàn khoá (chứng nhận bởi Coursera từ các hệ thống trường Đại Học quốc tế). Các bạn tham khảo thử khoá "[Web Design for Everybody (Specialization)](https://www.coursera.org/specializations/web-design "Web Design for Everybody (Specialization)")".
  
 - Udacity: <https://www.udacity.com/>
 
@@ -79,17 +89,17 @@ Thầy Kenny Ng khá nổi tiếng trên Youtube (chắc có thể các bạn c�
 
 Điểm hay trong cách dạy của Thầy là vì Thầy biết tiếng Việt nên Thầy biết được những lỗi mà người Việt hay mắc phải khi nói tiếng Anh, và gợi ý rất nhiều mẹo hay cho phần phát âm. Bên cạnh đó chắc chắn khi xem video của Thầy, các bạn cũng sẽ thấy rất có tính... giải trí (nhiều khi mình xem lại clip chỉ vì nó... "sáng tạo" quá ^_^) 
 
-**Bonus**: [phương pháp học ngoại ngữ](https://www.youtube.com/watch?v=fnUc_W3xE1w) (chất lượng video khá kém vì được ghi hình từ rất lâu, nhưng nội dung theo cá nhân mình thì là một *ngoại lệ* trong các video nói về phương pháp học ngoại ngữ)
+**Bonus**: [phương pháp học ngoại ngữ](https://www.youtube.com/watch?v=fnUc_W3xE1w "Stephen Krashen's lecture"). Chất lượng video khá kém vì được ghi hình từ rất lâu, nhưng nội dung theo cá nhân mình thì là một *ngoại lệ* trong các video nói về phương pháp học ngoại ngữ.
 
 ### 5. Youtube:
 
 Mình ít đề cập đến các kênh Youtube vì mình thấy phần phụ đề của Youtube không được tốt đôi khi gây khó khăn, và nội dung của các kênh Youtube cũng thường ít bài bản, có lộ trình học rõ ràng (có thể ít phù hợp với các bạn mới bắt đầu). Nhưng các kênh Youtube cũng có ích khi các bạn đã có kiến thức (kinh nghiệm) cần tham khảo nhanh 1 khái niệm technical nào đó, hay những series ngắn. Và cũng có rất nhiều kênh Youtube chất lượng tốt. 
 
-Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob) (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y) (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution) (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
+Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.youtube.com/c/Freecodecamp "freeCodeCamp channel") (kênh này rất nổi tiếng với rất nhiều chủ đề công nghệ), [Kevin Powell](https://www.youtube.com/kepowob "Kevin Powell channel") (một CSS guru), hay [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified "Web Dev Simplified channel") (có ưu điểm là giải thích dễ hiểu với các videos thời lượng ngắn), [Dev Tips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLhSrZ5pkCWhJhPG6ZcWo24fH1G5u6hU5y "Dev Tips channel") (CSS Animations Series), [Code Evolution](https://www.youtube.com/c/Codevolution "Code Evolution channel") (có nhiều series hay về React), và còn nhiều kênh khác nữa mà bản thân mình cũng không nhớ hết (hay không biết ^_^)
 
 ### 6. Dành cho các bạn mới bắt đầu:
 
-Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
+Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog "Tôi đi code dạo channel") (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
 
 ### 7. Toàn bộ lộ trình từ bắt đầu đến xin việc: (Scrimba)
 
@@ -97,7 +107,7 @@ Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mì
 
 Đối với mình Scrimba có thể không phải là nền tảng học yêu thích nhất (mình vẫn giữ vững "quan điểm", free luôn là lựa chọn đầu tiên ^_^). Nhưng nếu các bạn có tài chính và đặc biệt là **thời gian**. Các bạn mong muốn 1 khoá học đầy đủ bao gồm cả những kỹ năng mềm thì Scrimba là 1 lựa chọn tốt và hợp lý. Scrimba cung cấp cả chứng chỉ (nếu bạn hoàn thành toàn bộ khoá học) với mức phí không quá cao là 410K/tháng.
 
-Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Developer](https://scrimba.com/learn/frontend "The Frontend Developer Career Path")" (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free) mà nó cung cấp.
+Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Developer](https://scrimba.com/learn/frontend "The Frontend Developer Career Path")" (phần framework frontend là học về React). Nếu các bạn băn khoăn không biết Scrimba có phù hợp mình không, thì các bạn có thể tham khảo trước những [khoá học miễn phí](https://scrimba.com/allcourses?price=free "khoá học miễn phí") mà nó cung cấp.
 
 **Tip**: Các bạn nên tham khảo các khoá học miễn phí trước, và nếu thấy phù hợp các bạn có thể đăng ký gói 6 tháng (sẽ khó mà hoàn thành toàn bộ khoá học dưới 6 tháng :)) với mức phí 240K/tháng thay vì hàng tháng. Các bạn hoàn toàn có thể xin hoàn lại học phí (trước 30 ngày) nếu thấy không phù hợp.
 
@@ -105,12 +115,28 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 Nếu có khó khăn về phần tiếng Anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7) *, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx) *, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa) (có ích khi phỏng vấn), hay *code refactor* (legacy code)... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
+Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7 "Scrimba channel")*, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx "Scrimba channel")*, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa "Code Evolution channel"), hay *code refactor*... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
 
-Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/) có phí), Angular, Vue hay [Svelte](https://svelte.dev/) (framework yêu thích của mình)
+- Clean code: việc code được viết dễ hiểu là vô cùng quan trọng, kiến thức này nên được học ngay từ đầu.
+
+- Unit test:  testing đóng vai trò quan trọng, nhưng đôi khi bị bỏ qua ở 1 số công ty. Vì thế kiến thức có thể bổ sung sau, khi đi làm (tuỳ môi trường làm việc). Nhưng về lâu dài đây là kỹ năng vô cùng quan trọng, nó giúp bạn chuyên nghiệp hơn trong việc phát triển ứng dụng. Nhờ thế có thể giúp đi xa hơn trong công việc lập trình.
+
+- Thuật toán: trong lập trình hàng ngày có thể không sử dụng quá nhiều kiến thức này. Nên thường được hiểu là hữu dụng khi đi phỏng vấn (nhất là ở những công ty có quy mô vừa - lớn)
+
+- Code refactor: làm việc với những dự án đã được phát triển trước (legacy code) là rất phổ biến. Vì thế kiến thức về code refactor rất hữu ích (đặc biệt là ở những công ty chuyên về outsource). Kỹ năng này cũng giúp phân biệt một dev có kinh nghiệm. Vì nó thường được tích luỹ qua nhiều năm làm dự án.
+
+Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/ "trang của Wes Bos") có phí), Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
+
+- React: có cơ hội tuyển dụng cao nhất trong các framework.
+
+- Angular: thời gian học, làm quen framework có lẽ là dài nhất (Angular sử dụng Typescript).
+
+- Vue: phần docs đôi khi gây khó khăn, phần nhiều là do có sự khác biệt lớn giữa version 2 và 3.
+
+- Svelte: cái tên mới nhất trong các framework frontend. Vị trí tuyển dụng cho framework này chưa nhiều.
 
 **Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
-P/S: Nếu các nguồn miễn phí mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists), [Wes Bos](https://www.youtube.com/c/WesBos/playlists),...) để ủng hộ nhé :)
+P/S: Nếu các nguồn miễn phí mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists "Scrimba channel"), [Wes Bos](https://www.youtube.com/c/WesBos/playlists "Wes Bos channel"),...) để ủng hộ nhé :)
 
 Thanks!!
