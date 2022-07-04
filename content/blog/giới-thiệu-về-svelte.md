@@ -110,9 +110,7 @@ Bên cạnh đó nếu bạn đang chọn một công nghệ cho một dự án 
 
 ### 4. Kết luận:
 
-Mặc dù có những khuyết điểm (chủ yếu là vì Svelte vẫn còn khá mới), nhưng với tốc độ phát triển hiện tại của Svelte mình tin Svelte có một vị trí trong lập trình web.
-
-Nếu các bạn vẫn có sự lo ngại, liệu Svelte có thực sự là giải pháp đủ tốt đối với những dự án lớn trong thực tế không, thì hãy cân nhắc điều sau: 
+Mặc dù có những khuyết điểm (chủ yếu là vì Svelte vẫn còn khá mới), nhưng với tốc độ phát triển hiện tại của Svelte mình tin Svelte sẽ có một vị trí trong lập trình web. Nếu các bạn vẫn có sự lo ngại, liệu Svelte có thực sự là giải pháp đủ tốt đối với những dự án lớn trong thực tế không, thì hãy cân nhắc điều sau: 
 
 Svelte được xây dựng với ý định ban đầu là tìm một giải pháp nhanh chóng và hiệu quả để đáp ứng với những nhu cầu thực tế của The New York Times (điều này tương tự với React là giải pháp cho Facebook khi được tạo ra, trước khi được publish sử dụng). Và Svelte đã chứng minh được tính hiệu quả, đồng thời đáp ứng rất tốt những yêu cầu của một tờ báo toàn cầu. Vì thế mình nghĩ Svelte hoàn toàn có thể là lựa chọn phù hợp cho các ứng dụng mà chúng ta mong muốn xây dựng.
 
