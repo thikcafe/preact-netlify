@@ -127,7 +127,7 @@ Bên cạnh đó nếu các bạn chọn để trở thành một * frontend dev
 
 - React: có cơ hội tuyển dụng cao nhất trong các framework.
 
-- Angular: thời gian học, làm quen framework có lẽ là dài nhất.
+- Angular: thời gian học, làm quen framework có lẽ là dài nhất (Angular sử dụng Typescript).
 
 - Vue: phần docs đôi khi gây khó khăn, phần nhiều là do có sự khác biệt lớn giữa version 2 và 3.
 
