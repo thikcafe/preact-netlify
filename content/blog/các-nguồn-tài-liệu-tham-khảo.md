@@ -1,9 +1,9 @@
 ---
-title: Các nguồn tài liệu tham khảo
+title: Các nguồn tài liệu tham khảo (Frontend)
 date: 2022-06-18T14:19:44.722Z
 tags: "# resources,"
 ---
-Bài viết này chủ yếu để giới thiệu với các bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình web. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
+Bài viết này chủ yếu để giới thiệu với các bạn về những nguồn tài liệu (gồm cả khoá học online + tài liệu) mà mình thường tham khảo trong quá trình học và làm lập trình frontend. Mình sẽ cố gắng sắp xếp theo thứ tự từ cơ bản đến nâng cao, để tiện cho các bạn nếu tự học (nhưng các bạn có thể thoải mái lựa chọn khoá học tuỳ trình độ, quan tâm của các bạn). Và vì mình rất "keo kiệt" nên các nguồn này phần lớn là miễn phí :)
 
 ### 1. Các công cụ hỗ trợ:
 
