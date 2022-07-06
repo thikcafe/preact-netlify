@@ -67,7 +67,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 > Rõ ràng Svelte vượt trội ở chỉ số này (các chỉ số ở thời điểm hiện tại, Svelte vẫn vượt trội hơn)
 
-- Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, giúp tăng trải nghiệm người dùng). Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn, bao gồm cả người dùng sử dụng các thiết bị như Screen Reader), hay scoped CSS... 
+- Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, tốt cho performance). Bạn sẽ thấy việc làm việc với transition và animation là rất đơn giản trong Svelte. Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn, bao gồm cả người dùng sử dụng các thiết bị như Screen Reader), hay scoped CSS... 
 
 - Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm một thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
