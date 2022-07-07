@@ -37,7 +37,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Do đặc thù của tin tức là phải nhanh chóng, Svelte mang đến giải pháp bằng việc đơn giản hoá phần syntax và loại bỏ nhiều phần code không cần thiết (boilerplate code) khi lập trình. Các ứng dụng được tạo bằng Svelte yêu cầu ít mã hơn hầu hết các framework để triển khai chức năng tương đương.
 
-> *Việc viết ít code giúp tăng tính hiệu quả và giảm được thời gian đọc code (vì có ít code hơn để cần hiểu). Ngoài ra ít code hơn đồng nghĩa với việc ít "bug" hơn*
+> *Việc viết ít code giúp tăng tính hiệu quả và giảm được thời gian đọc code vì có ít code hơn để cần hiểu (việc đọc code thường chiếm thời gian nhiều hơn cả viết code). Ngoài ra ít code hơn đồng nghĩa với việc ít "bug" hơn*
 
 > So sánh: (số liệu 2019)
 
