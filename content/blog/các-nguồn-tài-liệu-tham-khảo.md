@@ -99,7 +99,7 @@ Các bạn có thể tham khảo các kênh như [freeCodeCamp](https://www.yout
 
 ### 6. Dành cho các bạn mới bắt đầu:
 
-Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog "Tôi đi code dạo channel") (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với biệt danh "Tôi đi code dạo" (biệt danh có từ quyển sách cùng tên mà anh viết)
+Nếu các bạn cần người chia sẻ những kinh nghiệm như: Liệu mình có phù hợp theo học lập trình không? Lập trình là làm những gì? hay Nên lựa chọn hướng đi công nghệ nào nếu theo công việc lập trình? vân vân thì anh [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog "Tôi đi code dạo channel") (một lập trình viên nổi tiếng với rất nhiều kinh nghiệm) sẽ có thể giúp bạn giải đáp rất nhiều thắc mắc. Anh cũng được biết đến với nickname "Tôi đi code dạo" (biệt danh có từ quyển sách "[Code Dạo Ký Sự](http://book.toidicodedao.com/ "Blog tôi đi code dạo")" anh viết)
 
 ### 7. Toàn bộ lộ trình từ bắt đầu đến xin việc: (Scrimba)
 
