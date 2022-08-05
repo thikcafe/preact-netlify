@@ -39,7 +39,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/ "trang CSS tricks") để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
-> Khi đã có kiến thức về CSS, các bạn có thể tìm hiểu thêm về các framework css như [Bootstrap](https://www.w3schools.com/bootstrap5/index.php) (dễ học và là framework css phổ biến nhất hiện nay), hay [Tailwind CSS](https://tailwindcss.com/) (còn khá mới, và đòi hỏi kiến thức css)
+> Khi đã có kiến thức về CSS, các bạn có thể tìm hiểu thêm về các framework css như [Bootstrap](https://getbootstrap.com/) (dễ học và là framework css phổ biến nhất hiện nay), hay [Tailwind CSS](https://tailwindcss.com/) (còn khá mới và đòi hỏi bạn phải nắm vững kiến thức css)
 
 - Giới thiệu Javascript: <https://www.udacity.com/course/intro-to-javascript--ud803>
 
