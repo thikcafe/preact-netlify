@@ -15,7 +15,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 - Git (version control): <https://www.udacity.com/course/version-control-with-git--ud123>
 
-> Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình (Git được xem là phổ biến nhất)
+> Dù cho hướng phát triển công nghệ của bạn là gì: lập trình web, mobile, IoT... hay lựa chọn ngôn ngữ lập trình nào bạn cũng cần sử dụng version control cho dự án của mình ([Git](https://www.w3schools.com/git/default.asp) được xem là phổ biến nhất)
 
 - IDE (Visual Code): <https://frontendmasters.com/courses/customize-vs-code/>
 
@@ -39,6 +39,8 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/ "trang CSS tricks") để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
+> Khi đã có kiến thức về CSS, các bạn có thể tìm hiểu thêm về các framework css như [Bootstrap](https://www.w3schools.com/bootstrap5/index.php) (dễ học và là framework css phổ biến nhất hiện nay), hay [Tailwind CSS](https://tailwindcss.com/) (còn khá mới, và đòi hỏi kiến thức css)
+
 - Giới thiệu Javascript: <https://www.udacity.com/course/intro-to-javascript--ud803>
 
 - Khoá học Javascript (Wes Bos):
@@ -47,9 +49,9 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Có phí (giảm 52%): <https://beginnerjavascript.com/>
 
-- ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): 
+- [Modern JS](https://www.w3schools.com/Js/js_es6.asp#mark_let) (ES6,7,8): việc sử dụng các syntax từ ES6 trong JS hay các framework JS đã trở nên phổ biến, và là kiến thức cần có để làm việc hiệu quả với Javascript.
 
-> <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
+- [Typescript](https://www.w3schools.com/typescript/index.php): giúp code JS trở nên an toàn, ít bug trong chương trình hơn. Nó cũng được sử dụng mặc định trong framework Angular.
 
 > *Lúc mới bắt đầu các bạn có thể chưa cần học Typescript. Typescript có ích khi các bạn làm việc với một framework frontend (ngay cả khi đó, phần này có thể cũng không bắt buộc. Framework Angular là một ngoại lệ).*
 
