@@ -127,7 +127,7 @@ Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn
 
 - Code refactor: làm việc với những dự án đã được phát triển trước (legacy code) là rất phổ biến. Vì thế kiến thức về code refactor rất hữu ích (đặc biệt là ở những công ty chuyên về outsource). Kỹ năng này cũng giúp phân biệt một dev có kinh nghiệm. Vì nó thường được tích luỹ qua nhiều năm làm dự án.
 
-Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/ "trang của Wes Bos") có phí), Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
+Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React, Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
 
 - React: có cơ hội tuyển dụng cao nhất trong các framework.
 
