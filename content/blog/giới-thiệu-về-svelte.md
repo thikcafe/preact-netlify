@@ -37,7 +37,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 - Do đặc thù của tin tức là phải nhanh chóng, Svelte mang đến giải pháp bằng việc đơn giản hoá phần syntax và loại bỏ nhiều phần code không cần thiết (boilerplate code) khi lập trình. Các ứng dụng được tạo bằng Svelte yêu cầu ít mã hơn hầu hết các framework để triển khai chức năng tương đương.
 
-> *Việc viết ít code giúp tăng tính hiệu quả và giảm được thời gian đọc code vì có ít code hơn để cần hiểu (việc đọc code thường chiếm thời gian nhiều hơn cả viết code). Ngoài ra ít code hơn đồng nghĩa với việc ít "bug" hơn*
+> *Việc viết ít code giúp tăng tính hiệu quả và giảm được thời gian đọc code (vì có ít code hơn để cần hiểu). Ngoài ra ít code hơn đồng nghĩa với việc ít "bug" hơn*
 
 > So sánh: (số liệu 2019)
 
@@ -67,7 +67,7 @@ Harris cần một giải pháp cực kỳ nhanh chóng và dễ dàng xây dự
 
 > Rõ ràng Svelte vượt trội ở chỉ số này (các chỉ số ở thời điểm hiện tại, Svelte vẫn vượt trội hơn)
 
-- Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, tốt cho performance). Bạn sẽ thấy việc làm việc với transition và animation là rất đơn giản trong Svelte. Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn, bao gồm cả người dùng sử dụng các thiết bị như Screen Reader), hay scoped CSS... 
+- Công việc chính là biên tập đồ họa, Harris đã xây dựng các phần hiệu ứng web mà chúng ta hay sử dụng ngay trong framework Svelte (sử dụng CSS thay vì JS, giúp tăng trải nghiệm người dùng). Bên cạnh đó là rất nhiều tính năng "build-in" khác như hỗ trợ Accessibility (giúp tiếp cận nhiều người dùng hơn, bao gồm cả người dùng sử dụng các thiết bị như Screen Reader), hay scoped CSS... 
 
 - Svelte đơn giản hóa đáng kể việc quản lý trạng thái (state management) trong application. Việc này thường đòi hỏi có thêm một thư viện thứ 3 trong các framework khác như ngrx/store (Angular), Redux (React), và Vuex (Vue). 
 
