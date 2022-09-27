@@ -17,6 +17,12 @@ Khóa học [learning how to learn](https://www.coursera.org/learn/learning-how-
 
 Khóa học [learning how to learn](https://www.coursera.org/learn/learning-how-to-learn?) là hoàn toàn miễn phí, các bạn hãy thử nhé! Mình tin khoá học sẽ rất có ích cho các bạn :)
 
+**Bonus (recommended)**:
+
+- Study skills: <https://www.youtube.com/watch?v=Ulk9BCRA83Y&list=RDCMUCdQeheeOP6EAKsDciSTRfAw&index=1>
+
+- English learning method: <https://www.youtube.com/watch?v=fnUc_W3xE1w&list=PLhSrZ5pkCWhIZGWVwAL2i8rAHQgXZzPop&index=2>
+
 Have fun!!
 
 
