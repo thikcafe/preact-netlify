@@ -10,6 +10,7 @@ const photographs = (props) => {
 					<p>
 						Mình là một frontend developer, có một thời gian làm việc ở FPT. Hiện mình đã nghỉ 
 						và có nguyện vọng hướng dẫn các bạn (đặc biệt những bạn khiếm khuyết) có mong muốn tìm hiểu về lập trình web. 
+						<b> Công việc của mình là hỗ trợ Mentor 1:1 đối với các công nghệ như Html&Css, Javascript, React và NodeJS.</b>
 					</p>
 					<p>
 						Nếu các bạn có băn khoăn về tài chính, thì đừng quá lo lắng. Tất cả những gì các 
@@ -18,9 +19,6 @@ const photographs = (props) => {
 					</p>
 					<p>
 						Các bạn có thể mail cho mình qua địa chỉ - trungtamkhoidau@gmail.com.
-					</p>
-					<p>
-						Hay tham khảo thông tin các khoá học trên website (bản demo) - <a href='https://khoidau.netlify.app/'>https://khoidau.netlify.app/</a>
 					</p>
 					<p>
 						Hẹn gặp các bạn!!
