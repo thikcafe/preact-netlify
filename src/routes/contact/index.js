@@ -10,7 +10,8 @@ const photographs = (props) => {
 					<p>
 						Mình là một frontend developer, có một thời gian làm việc ở FPT. Hiện mình đã nghỉ 
 						và có nguyện vọng hướng dẫn các bạn (đặc biệt những bạn khiếm khuyết) có mong muốn tìm hiểu về lập trình web. 
-						<b> Công việc của mình là hỗ trợ Mentor 1:1 đối với các công nghệ như Html&Css, Javascript, React và NodeJS.</b>
+						<b> Công việc của mình là hỗ trợ Mentor 1:1 đối với các công nghệ như Html&Css, Javascript, và React.</b> 
+						{/* Ngoài ra mình cũng cung cấp một lộ trình đầy đủ từ bắt đầu cho đến khi trở thành một frontend developer (giáo trình và chứng chỉ nước ngoài) */}
 					</p>
 					<p>
 						Nếu các bạn có băn khoăn về tài chính, thì đừng quá lo lắng. Tất cả những gì các 
