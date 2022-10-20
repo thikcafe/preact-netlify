@@ -39,9 +39,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Ngoài ra các bạn cũng có thể thường xuyên vào các trang như [CSS tricks](https://css-tricks.com/ "trang CSS tricks") để tham khảo thêm khi các bạn đã có kiến thức - kinh nghiệm CSS nhất định. 
 
-- Giới thiệu Javascript: <https://www.udacity.com/course/intro-to-javascript--ud803>
-
-- Khoá học Javascript (Wes Bos):
+- Khoá học Javascript:
 
 >﻿Beginner: <https://join.codecademy.com/learn/introduction-to-javascript/>
 
