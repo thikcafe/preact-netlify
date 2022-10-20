@@ -43,9 +43,9 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 - Khoá học Javascript (Wes Bos):
 
-> Miễn phí: <https://javascript30.com/>
+>﻿Beginner: <https://join.codecademy.com/learn/introduction-to-javascript/>
 
-> Có phí (giảm 52%): <https://beginnerjavascript.com/>
+> Pratice: <https://javascript30.com/>
 
 - ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): 
 
