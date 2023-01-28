@@ -45,9 +45,9 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Pratice: <https://javascript30.com/>
 
-- ES6 + Typescript (nội dung có hơi cũ, nhưng có thể làm tham khảo để giúp các bạn nắm được khái niệm ES6 + Typescript): 
+- Typescript: 
 
-> <https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV>
+> <https://www.totaltypescript.com/tutorials>
 
 > *Lúc mới bắt đầu các bạn có thể chưa cần học Typescript. Typescript có ích khi các bạn làm việc với một framework frontend (ngay cả khi đó, phần này có thể cũng không bắt buộc. Framework Angular là một ngoại lệ).*
 
@@ -113,7 +113,8 @@ Các bạn có thể tham khảo lộ trình học của khoá "[Frontend Develo
 
 Nếu có khó khăn về phần tiếng Anh, các bạn cài * google translate plugin * (hoặc đọc phụ đề tiếng Anh) để dịch nhé :). Nhưng mình nghĩ các bạn nên sử dụng tiếng Anh, vì hầu hết các tài liệu lập trình đều được viết bằng tiếng Anh. Tin tốt là các từ vựng chuyên ngành cũng không... *quá nhiều*, theo thời gian các bạn sẽ quen dần thôi hi!!
 
-Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7 "Scrimba channel")*, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx "Scrimba channel")*, [*thuật toán*](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa "Code Evolution channel"), hay *code refactor*... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
+Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn mới bắt đầu thì các bạn có thể tạm bỏ qua) kiến thức về * [clean code](https://www.youtube.com/watch?v=aft4VFhdWgI&list=PLqYFXd9GTRVUyVv4Kw9cJAUS4vujkgvf7 "Scrimba channel")*, * [unit test](https://www.youtube.com/watch?v=5PFyTBi0fsY&list=PLqYFXd9GTRVWZoMUXs98QammIr0EWuoQx "Scrimba channel")*, [*thuật toán*](https://frontendmasters.com/courses/algorithms/ "
+The Last Algorithms Course You'll Need"), hay *code refactor*... có vẻ quá nhiều phải kg, hi. Đừng lo, "one step at the time, you will be alright" :). 
 
 - Clean code: việc code được viết dễ hiểu là vô cùng quan trọng, kiến thức này nên được học ngay từ đầu.
 
@@ -123,7 +124,7 @@ Ngoài ra nếu đi làm các bạn còn cần bổ sung thêm (ở giai đoạn
 
 - Code refactor: làm việc với những dự án đã được phát triển trước (legacy code) là rất phổ biến. Vì thế kiến thức về code refactor rất hữu ích (đặc biệt là ở những công ty chuyên về outsource). Kỹ năng này cũng giúp phân biệt một dev có kinh nghiệm. Vì nó thường được tích luỹ qua nhiều năm làm dự án.
 
-Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React (Wes Bos có [một khoá](https://advancedreact.com/ "trang của Wes Bos") có phí), Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
+Bên cạnh đó nếu các bạn chọn để trở thành một * frontend developer * thì hiện nay các bạn phải cần học thêm một * frontend framework * như React, Angular, Vue hay [Svelte](https://svelte.dev/ "trang chủ Svelte") (framework yêu thích của mình)
 
 - React: có cơ hội tuyển dụng cao nhất trong các framework.
 
@@ -133,7 +134,7 @@ Bên cạnh đó nếu các bạn chọn để trở thành một * frontend dev
 
 - Svelte: cái tên mới nhất trong các framework frontend. Vị trí tuyển dụng cho framework này chưa nhiều.
 
-**Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen ^_^. Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn :). Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
+**Ghi chú *lần 2* :** Mình và các kênh - nền tảng học không... quen :). Mình chỉ cố review "có tâm" 1 chút, hi vọng có thể giúp được các bạn. Các bạn nên quyết định nền tảng học nào là phù hợp với kinh nghiệm, thời gian và cả tài chính mà các bạn có. Good luck!!
 
 P/S: Nếu các nguồn miễn phí mà mình liệt kê có giúp ích được các bạn thì hãy dành ít thời gian vào kênh Youtube của họ (như [Scrimba](https://www.youtube.com/c/Scrimba/playlists "Scrimba channel"), [Wes Bos](https://www.youtube.com/c/WesBos/playlists "Wes Bos channel"),...) để ủng hộ nhé :)
 
