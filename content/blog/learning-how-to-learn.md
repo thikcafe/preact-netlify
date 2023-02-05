@@ -1,5 +1,5 @@
 ---
-title: Learning how to learn
+title: Học... cách học
 date: 2022-06-18T09:07:51.788Z
 subtitle: ""
 cover: https://imgv2-2-f.scribdassets.com/img/document/251144197/original/ad6b80ef0a/1579388196?v=1
