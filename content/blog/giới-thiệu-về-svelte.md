@@ -115,3 +115,5 @@ Mặc dù có những khuyết điểm (chủ yếu là vì Svelte vẫn còn kh
 Svelte được xây dựng với ý định ban đầu là tìm một giải pháp nhanh chóng và hiệu quả để đáp ứng với những nhu cầu thực tế của The New York Times (điều này tương tự với React là giải pháp cho Facebook khi được tạo ra, trước khi được publish sử dụng). Và Svelte đã chứng minh được tính hiệu quả, đồng thời đáp ứng rất tốt những yêu cầu của một tờ báo toàn cầu. Vì thế mình nghĩ Svelte hoàn toàn có thể là lựa chọn phù hợp cho các ứng dụng mà chúng ta mong muốn xây dựng.
 
 Ngoài ra không tuyệt vời sao khi một framework có thể mang đến trải nghiệm người dùng tốt hơn, làm việc hiệu quả trên nhiều nền tảng (hạn chế) khác nhau và đồng thời thân thiện với người phát triển?
+
+N﻿aive Coder
