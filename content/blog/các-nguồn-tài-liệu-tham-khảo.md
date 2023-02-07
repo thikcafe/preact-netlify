@@ -27,11 +27,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 ### 2. Lập trình web: 
 
-- HTML & CSS (Intro): <https://www.udacity.com/course/intro-to-html-and-css--ud001>
-
-- HTML & CSS (Basic): <https://learn.shayhowe.com/html-css/>
-
-- HTML & CSS (Advanced): <https://learn.shayhowe.com/advanced-html-css/>
+- HTML & CSS (): <https://www.khanacademy.org/computing/computer-programming/html-css>
 
 - Flexbox ([Wes Bos](https://wesbos.com/courses "khoá học của Wes Bos")): <https://flexbox.io/>
 
@@ -41,9 +37,9 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 - Khoá học Javascript:
 
->﻿Beginner: <https://join.codecademy.com/learn/introduction-to-javascript/>
+>﻿Intro ():<https://www.codecademy.com/learn/introduction-to-javascript>
 
-> Pratice: <https://javascript30.com/>
+> Pratice (): <https://javascript30.com/>
 
 - Typescript: 
 
