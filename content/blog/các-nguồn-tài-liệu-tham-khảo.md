@@ -41,9 +41,7 @@ Bài viết này chủ yếu để giới thiệu với các bạn về những 
 
 > Pratice (Wes Bos): <https://javascript30.com/>
 
-- Typescript: 
-
-> <https://www.totaltypescript.com/tutorials>
+- Typescript: <https://www.totaltypescript.com/tutorials>
 
 > *Lúc mới bắt đầu các bạn có thể chưa cần học Typescript. Typescript có ích khi các bạn làm việc với một framework frontend (ngay cả khi đó, phần này có thể cũng không bắt buộc. Framework Angular là một ngoại lệ).*
 
