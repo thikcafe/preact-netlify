@@ -19,7 +19,7 @@ const photographs = (props) => {
 						Vì cá nhân mình tin kiến thức mang lại niềm vui, và kỹ năng lập trình cũng hữu ích ngày nay.
 					</p>
 					<p>
-						Các bạn có thể mail cho mình qua địa chỉ - trungtamkhoidau@gmail.com.
+						Các bạn có thể mail cho mình qua địa chỉ - naive-coder@outlook.com.
 					</p>
 					<p>
 						Hẹn gặp các bạn!!
